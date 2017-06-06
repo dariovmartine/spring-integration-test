@@ -1,0 +1,16 @@
+jms-producer/bin
+jms-producer/build
+jms-producer/.settings
+jms-producer/.classpath
+jms-producer/.project
+spring-integration/bin  
+spring-integration/target
+spring-integration/.settings
+spring-integration/.classpath
+spring-integration/.project
+web-service-soap/bin
+web-service-soap/build
+web-service-soap/.settings
+web-service-soap/.classpath
+web-service-soap/.project
+

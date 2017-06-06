@@ -1,0 +1,17 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.test.spring.integration.ws/orders"
+           targetNamespace="http://www.test.spring.integration.ws/orders" elementFormDefault="qualified">
+
+  <xs:element name="processOrderRequest">
+  	<xs:complexType>
+    	<xs:attribute name="itemId" use="required" type="xs:integer"/>
+    	<xs:attribute name="quantity" use="required" type="xs:integer"/>
+   	</xs:complexType>
+  </xs:element>
+  
+  <xs:element name="processOrderResponse">
+    <xs:complexType>
+      <xs:attribute name="amount" use="required" type="xs:decimal"/>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

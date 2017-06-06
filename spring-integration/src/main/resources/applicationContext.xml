@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:oxm="http://www.springframework.org/schema/oxm" xmlns:int="http://www.springframework.org/schema/integration"
+	xmlns:int-ws="http://www.springframework.org/schema/integration/ws"
+	xmlns:int-jms="http://www.springframework.org/schema/integration/jms"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
+		http://www.springframework.org/schema/oxm http://www.springframework.org/schema/oxm/spring-oxm-3.0.xsd
+		http://www.springframework.org/schema/integration http://www.springframework.org/schema/integration/spring-integration.xsd
+		http://www.springframework.org/schema/integration/ws http://www.springframework.org/schema/integration/ws/spring-integration-ws.xsd
+		http://www.springframework.org/schema/integration/jms http://www.springframework.org/schema/integration/jms/spring-integration-jms.xsd">
+	
+	<int:channel id="processOrderChannel" >
+		<int:queue  />
+	</int:channel>
+	
+	<int-jms:inbound-channel-adapter
+        channel="objectMapperOrderInput" connection-factory="connectionFactory"
+        destination-name="processOrderQueque"  >
+        <int:poller fixed-delay="500" />
+    </int-jms:inbound-channel-adapter>
+ 
+ 	<int:json-to-object-transformer input-channel="objectMapperOrderInput" output-channel="processOrderChannel"
+    	type="ar.com.directv.test.spring.integration.si.Order" />
+    	
+    <bean id="connectionFactory"
+        class="org.springframework.jms.connection.CachingConnectionFactory">
+        <property name="targetConnectionFactory">
+            <bean class="org.apache.activemq.ActiveMQConnectionFactory">
+                <property name="brokerURL" value="tcp://localhost:61616?wireFormat.maxInactivityDuration=0" />
+            </bean>
+        </property>
+        <property name="sessionCacheSize" value="10" />
+        <property name="cacheProducers" value="false" />
+    </bean>
+       
+	<int:service-activator input-channel="processOrderChannel" ref="springIntExample" method="processOrder" 
+		output-channel="ordersChannel" >
+        <int:poller  fixed-delay="500" />
+    </int:service-activator>
+    
+    <int:channel id="ordersChannel" >
+		<int:queue  />
+	</int:channel>
+    
+    <bean id="springIntExample" class="ar.com.directv.test.spring.integration.si.ServiceActivator"/>	
+    
+	<int-ws:outbound-gateway id="marshallingGateway" 
+		request-channel="ordersChannel"  reply-channel="ordersProcessedChannel"
+		uri="http://localhost:8080/ws" marshaller="marshaller"
+		unmarshaller="marshaller"  >
+	    <int:poller  fixed-delay="500" />
+	</int-ws:outbound-gateway>
+
+	<oxm:jaxb2-marshaller id="marshaller" contextPath="ar.com.directv.test.spring.integration.types" />
+	
+	<int:channel id="ordersProcessedChannel" >
+		<int:queue  />
+	</int:channel>
+	
+    <int:service-activator input-channel="ordersProcessedChannel" ref="simpleLogger" method="logProcessedOrder">
+        <int:poller  fixed-delay="500" />
+    </int:service-activator>
+    
+    <bean id="simpleLogger" class="ar.com.directv.test.spring.integration.si.SimpleLogger"/>	
+
+
+
+</beans>

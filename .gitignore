@@ -13,4 +13,5 @@ web-service-soap/build
 web-service-soap/.settings
 web-service-soap/.classpath
 web-service-soap/.project
-
+jms-producer/.gradle/
+web-service-soap/.gradle/

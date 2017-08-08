@@ -11,8 +11,11 @@ public class Order {
             
     private static final java.util.Random rand = new java.util.Random();
     
+ 
     public static Order getOrder() {
+    	
     	Order order = new Order();
+    
     	order.clientId = rand.nextInt(1000000);
     	int orderItemsSize = rand.nextInt(10) + 1;
     	for (int i=0; i < orderItemsSize; i++) {
@@ -41,6 +44,8 @@ public class Order {
 	public String toString() {
 		return "Order [items=" + items + ", clientId=" + clientId + "]";
 	}
+
+	
 	
 	
 }

@@ -8,19 +8,7 @@ public class Order {
     private List<Item> items = new ArrayList<>();
     
     private long clientId;
-            
-    private static final java.util.Random rand = new java.util.Random();
     
-    public static Order getOrder() {
-    	Order order = new Order();
-    	order.clientId = rand.nextInt(1000000);
-    	int orderItemsSize = rand.nextInt(10);
-    	for (int i=0; i < orderItemsSize; i++) {
-    		order.items.add(Item.getItem());
-    	}
-    	return order;
-    }
-
 	public List<Item> getItems() {
 		return items;
 	}

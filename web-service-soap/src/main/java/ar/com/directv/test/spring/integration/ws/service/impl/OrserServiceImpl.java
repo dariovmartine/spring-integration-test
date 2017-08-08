@@ -14,6 +14,11 @@ public class OrserServiceImpl implements OrderService {
 	@Override
 	public BigDecimal order(int itemId, int quantity) {
 		
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			new RuntimeException(e);
+		}
 		BigDecimal amount = new BigDecimal(rand.nextDouble() * 1000 + rand.nextDouble() * 100);
 		return amount;
 				

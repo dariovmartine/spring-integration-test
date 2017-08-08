@@ -36,6 +36,8 @@ public class ProcessOrderRequest {
     protected BigInteger itemId;
     @XmlAttribute(name = "quantity", required = true)
     protected BigInteger quantity;
+    @XmlAttribute(name = "estado", required = false)
+    protected BigInteger estado;
 
     /**
      * Gets the value of the itemId property.
@@ -84,5 +86,15 @@ public class ProcessOrderRequest {
     public void setQuantity(BigInteger value) {
         this.quantity = value;
     }
+
+	public BigInteger getEstado() {
+		return estado;
+	}
+
+	public void setEstado(BigInteger estado) {
+		this.estado = estado;
+	}
+    
+    
 
 }

@@ -33,6 +33,8 @@ public class ProcessOrderResponse {
 
     @XmlAttribute(name = "amount", required = true)
     protected BigDecimal amount;
+    
+    
 
     /**
      * Gets the value of the amount property.
@@ -57,5 +59,8 @@ public class ProcessOrderResponse {
     public void setAmount(BigDecimal value) {
         this.amount = value;
     }
+
+    
+    
 
 }

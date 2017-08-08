@@ -9,9 +9,11 @@ public class SimpleLogger {
 	
 	static final Logger logger = LoggerFactory.getLogger(SimpleLogger.class);
 	
+	public static int i = 0;
 	public void logProcessedOrder(ProcessOrderResponse order) {
 		
-		logger.info("Recibo: {} ", order.getAmount()  );
+		logger.info("Recibo: {} count: {}", order.getAmount() ,++i );
+		
 	}
 
 

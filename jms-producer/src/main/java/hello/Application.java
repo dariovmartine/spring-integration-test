@@ -1,6 +1,8 @@
 
 package hello;
 
+import java.io.IOException;
+
 import javax.jms.ConnectionFactory;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
@@ -39,7 +41,6 @@ public class Application {
 			broker.setPersistent(false);
 			broker.setUseShutdownHook(false);
 			broker.setUseJmx(false);
-			broker.setPersistent(false);
 			broker.start();
 
 		} catch (Exception e) {
@@ -67,17 +68,20 @@ public class Application {
         return converter;
     }
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, IOException {
         // Launch the application
         ConfigurableApplicationContext context = SpringApplication.run(Application.class, args);
 
         JmsTemplate jmsTemplate = context.getBean(JmsTemplate.class);
 
-        while (true) {
+        System.out.print("ENTER para enviar mensajes:");
+        System.in.read();
+        for (int i=0; i < 300; i++) {
         	jmsTemplate.convertAndSend("processOrderQueque", Order.getOrder());
         	logger.info("Enviando mensaje a la cola");
-        	Thread.sleep(1000);
         }
+        System.out.print("ENTER para terminar");
+        System.in.read();
     }
 
 }

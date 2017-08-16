@@ -77,6 +77,7 @@ public class Application {
         System.out.print("ENTER para enviar mensajes:");
         System.in.read();
         for (int i=0; i < 300; i++) {
+        	
         	jmsTemplate.convertAndSend("processOrderQueque", Order.getOrder());
         	logger.info("Enviando mensaje a la cola");
         }

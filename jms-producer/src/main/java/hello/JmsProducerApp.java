@@ -25,9 +25,9 @@ import org.slf4j.LoggerFactory;
 
 @SpringBootApplication
 @EnableJms
-public class Application {
+public class JmsProducerApp {
 	
-	static final Logger logger = LoggerFactory.getLogger(Application.class);
+	static final Logger logger = LoggerFactory.getLogger(JmsProducerApp.class);
 	
 	@Bean
 	public ActiveMQConnectionFactory getActiveMQConnectionFactory() {
@@ -70,7 +70,7 @@ public class Application {
 
     public static void main(String[] args) throws InterruptedException, IOException {
         // Launch the application
-        ConfigurableApplicationContext context = SpringApplication.run(Application.class, args);
+        ConfigurableApplicationContext context = SpringApplication.run(JmsProducerApp.class, args);
 
         JmsTemplate jmsTemplate = context.getBean(JmsTemplate.class);
 

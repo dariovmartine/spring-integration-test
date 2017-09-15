@@ -11,7 +11,6 @@ import org.springframework.integration.Message;
 import org.springframework.integration.MessageChannel;
 import org.springframework.integration.support.MessageBuilder;
 import org.springframework.integration.support.channel.BeanFactoryChannelResolver;
-import org.springframework.util.MultiValueMap;
 import org.springframework.util.concurrent.ListenableFuture;
 import org.springframework.util.concurrent.ListenableFutureCallback;
 import org.springframework.web.client.AsyncRestTemplate;
@@ -37,7 +36,6 @@ public class NIOServiceActivator implements ApplicationContextAware {
 	}
 
 	class ProcessOrderRequestHttpEntity extends  HttpEntity<ProcessOrderRequest> {
-
 		
 		private ProcessOrderRequest order;
 
@@ -51,24 +49,12 @@ public class NIOServiceActivator implements ApplicationContextAware {
 			return this.order != null;
 		}
 		
-
-		@Override
-		public HttpHeaders getHeaders() {
-			// TODO Auto-generated method stub
-			return super.getHeaders();
-		}
-
 		@Override
 		public ProcessOrderRequest getBody() {
-			
 			return this.order;
-
-
 		}
-		
-		
-		
 	}
+	
 	public void processOrder(ProcessOrderRequest order) {
 		
 		HttpHeaders headers = new HttpHeaders();
@@ -85,14 +71,15 @@ public class NIOServiceActivator implements ApplicationContextAware {
 				
 				try {
 	        		
-				BeanFactoryChannelResolver channelResolver = (BeanFactoryChannelResolver) new BeanFactoryChannelResolver(context);
+					BeanFactoryChannelResolver channelResolver = (BeanFactoryChannelResolver) new BeanFactoryChannelResolver(context);
 
-	        	// Create the Message object
-	        	Message<ProcessOrderResponse> message = MessageBuilder.withPayload(result.getBody()).build();
+					// Create the Message object
+					Message<ProcessOrderResponse> message = MessageBuilder.withPayload(result.getBody()).build();
 
-	        	// Send the Message to the handler's input channel
-	        	MessageChannel channel = channelResolver.resolveChannelName("ordersProcessedChannel");
-	        	channel.send(message);
+					// Send the Message to the handler's input channel
+					MessageChannel channel = channelResolver.resolveChannelName("ordersProcessedChannel");
+					channel.send(message);
+
 				} catch (Exception e ) {
 					
 					e.printStackTrace();
@@ -110,7 +97,4 @@ public class NIOServiceActivator implements ApplicationContextAware {
 	public void setApplicationContext(ApplicationContext context) throws BeansException {
 		this.context = context;		
 	}
-	
-	
-
 }

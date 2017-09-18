@@ -54,12 +54,12 @@
 	
 	
 	<int:service-activator input-channel="ordersChannel"  method="processOrder" ref="nioServiceActivator">
-    	
     	<int:poller  fixed-delay="10" />
 	</int:service-activator>
 	
 	<bean id="nioServiceActivator" class="ar.com.directv.test.spring.integration.nio.NIOServiceActivator">
-    		<property name="uri" value="http://localhost:8080/ws"/>
+    	<property name="uri" value="http://localhost:8080/ws"/>
+    	<property name="outputChannel" ref="ordersProcessedChannel" />
    	</bean>
 	
 	<int:channel id="ordersProcessedChannel" >

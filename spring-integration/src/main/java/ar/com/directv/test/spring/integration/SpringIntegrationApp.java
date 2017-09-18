@@ -8,7 +8,7 @@ public class SpringIntegrationApp {
 	
 	public static  void main(String args[]) {
 		
-		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext-async-ws-usingrest.xml");
+		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext-async-cxf-nio.xml");
 
 	}
 }

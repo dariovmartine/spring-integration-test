@@ -1,5 +1,5 @@
 
-package ar.com.directv.test.spring.integration.async;
+package ar.com.directv.test.spring.integration.types;
 
 import java.net.MalformedURLException;
 import java.net.URL;

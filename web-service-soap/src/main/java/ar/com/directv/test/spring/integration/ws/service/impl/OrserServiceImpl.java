@@ -20,6 +20,7 @@ public class OrserServiceImpl implements OrderService {
 			new RuntimeException(e);
 		}
 		BigDecimal amount = new BigDecimal(rand.nextDouble() * 1000 + rand.nextDouble() * 100);
+		System.out.println("Recibo: " + itemId + " cantidad: " + quantity);
 		return amount;
 				
 	}

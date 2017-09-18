@@ -1,0 +1,600 @@
+2017-09-18 11:40:58,750|ServiceActivator|Recibo: Order [items=[Item [itemId=183, quantity=8], Item [itemId=871, quantity=4], Item [itemId=838, quantity=2], Item [itemId=623, quantity=1], Item [itemId=758, quantity=5], Item [itemId=563, quantity=4], Item [itemId=471, quantity=1]], clientId=683926] 
+2017-09-18 11:40:58,759|ServiceActivator|Recibo: Order [items=[Item [itemId=737, quantity=7], Item [itemId=465, quantity=10], Item [itemId=344, quantity=10], Item [itemId=677, quantity=5], Item [itemId=131, quantity=5], Item [itemId=313, quantity=1]], clientId=710534] 
+2017-09-18 11:40:58,772|ServiceActivator|Recibo: Order [items=[Item [itemId=440, quantity=1], Item [itemId=621, quantity=9], Item [itemId=411, quantity=10], Item [itemId=446, quantity=2], Item [itemId=291, quantity=4]], clientId=561443] 
+2017-09-18 11:40:58,783|ServiceActivator|Recibo: Order [items=[Item [itemId=31, quantity=4], Item [itemId=793, quantity=5], Item [itemId=455, quantity=3], Item [itemId=185, quantity=4], Item [itemId=340, quantity=3], Item [itemId=919, quantity=1], Item [itemId=225, quantity=5], Item [itemId=239, quantity=5], Item [itemId=646, quantity=8], Item [itemId=992, quantity=3]], clientId=253982] 
+2017-09-18 11:40:58,794|ServiceActivator|Recibo: Order [items=[Item [itemId=965, quantity=8]], clientId=796791] 
+2017-09-18 11:40:58,805|ServiceActivator|Recibo: Order [items=[Item [itemId=598, quantity=3], Item [itemId=604, quantity=6], Item [itemId=162, quantity=9], Item [itemId=108, quantity=7], Item [itemId=257, quantity=5], Item [itemId=141, quantity=5], Item [itemId=910, quantity=2], Item [itemId=644, quantity=3], Item [itemId=564, quantity=7]], clientId=868696] 
+2017-09-18 11:40:58,817|ServiceActivator|Recibo: Order [items=[Item [itemId=882, quantity=9], Item [itemId=484, quantity=3], Item [itemId=666, quantity=10], Item [itemId=128, quantity=4], Item [itemId=774, quantity=4], Item [itemId=490, quantity=2], Item [itemId=718, quantity=9], Item [itemId=11, quantity=7], Item [itemId=119, quantity=8], Item [itemId=980, quantity=6]], clientId=533103] 
+2017-09-18 11:40:58,837|ServiceActivator|Recibo: Order [items=[Item [itemId=580, quantity=6], Item [itemId=674, quantity=8]], clientId=941970] 
+2017-09-18 11:40:58,869|ServiceActivator|Recibo: Order [items=[Item [itemId=748, quantity=1]], clientId=713416] 
+2017-09-18 11:40:58,891|ServiceActivator|Recibo: Order [items=[Item [itemId=618, quantity=1], Item [itemId=823, quantity=6], Item [itemId=681, quantity=8], Item [itemId=558, quantity=10], Item [itemId=942, quantity=6], Item [itemId=870, quantity=6], Item [itemId=943, quantity=6], Item [itemId=681, quantity=3], Item [itemId=213, quantity=4]], clientId=271499] 
+2017-09-18 11:40:58,915|ServiceActivator|Recibo: Order [items=[Item [itemId=97, quantity=3], Item [itemId=29, quantity=6], Item [itemId=65, quantity=7], Item [itemId=203, quantity=5], Item [itemId=595, quantity=9], Item [itemId=205, quantity=10], Item [itemId=103, quantity=2]], clientId=127571] 
+2017-09-18 11:40:58,969|ServiceActivator|Recibo: Order [items=[Item [itemId=441, quantity=6], Item [itemId=167, quantity=8], Item [itemId=900, quantity=8], Item [itemId=220, quantity=1]], clientId=595768] 
+2017-09-18 11:40:59,013|ServiceActivator|Recibo: Order [items=[Item [itemId=617, quantity=5]], clientId=875157] 
+2017-09-18 11:40:59,068|ServiceActivator|Recibo: Order [items=[Item [itemId=147, quantity=6], Item [itemId=162, quantity=3], Item [itemId=914, quantity=10], Item [itemId=245, quantity=4], Item [itemId=482, quantity=1]], clientId=163555] 
+2017-09-18 11:40:59,100|ServiceActivator|Recibo: Order [items=[Item [itemId=670, quantity=4], Item [itemId=432, quantity=7], Item [itemId=629, quantity=6]], clientId=739965] 
+2017-09-18 11:40:59,142|ServiceActivator|Recibo: Order [items=[Item [itemId=355, quantity=4], Item [itemId=76, quantity=6], Item [itemId=868, quantity=3], Item [itemId=456, quantity=10]], clientId=899648] 
+2017-09-18 11:40:59,153|ServiceActivator|Recibo: Order [items=[Item [itemId=549, quantity=10], Item [itemId=473, quantity=8]], clientId=483778] 
+2017-09-18 11:40:59,164|ServiceActivator|Recibo: Order [items=[Item [itemId=872, quantity=6], Item [itemId=663, quantity=4], Item [itemId=621, quantity=6], Item [itemId=475, quantity=9], Item [itemId=647, quantity=9]], clientId=56590] 
+2017-09-18 11:40:59,176|ServiceActivator|Recibo: Order [items=[Item [itemId=775, quantity=5], Item [itemId=515, quantity=2], Item [itemId=451, quantity=6], Item [itemId=598, quantity=4], Item [itemId=701, quantity=3], Item [itemId=19, quantity=10], Item [itemId=116, quantity=1], Item [itemId=158, quantity=6]], clientId=485913] 
+2017-09-18 11:40:59,187|ServiceActivator|Recibo: Order [items=[Item [itemId=113, quantity=1], Item [itemId=487, quantity=3], Item [itemId=19, quantity=9], Item [itemId=670, quantity=4], Item [itemId=533, quantity=5], Item [itemId=471, quantity=10], Item [itemId=238, quantity=1], Item [itemId=778, quantity=10], Item [itemId=413, quantity=7], Item [itemId=499, quantity=10]], clientId=137062] 
+2017-09-18 11:40:59,198|ServiceActivator|Recibo: Order [items=[Item [itemId=743, quantity=7], Item [itemId=441, quantity=8], Item [itemId=455, quantity=2], Item [itemId=916, quantity=6]], clientId=66320] 
+2017-09-18 11:40:59,209|ServiceActivator|Recibo: Order [items=[Item [itemId=136, quantity=4], Item [itemId=392, quantity=9], Item [itemId=226, quantity=2], Item [itemId=41, quantity=9], Item [itemId=750, quantity=4], Item [itemId=889, quantity=10], Item [itemId=104, quantity=10]], clientId=804] 
+2017-09-18 11:40:59,220|ServiceActivator|Recibo: Order [items=[Item [itemId=181, quantity=5], Item [itemId=944, quantity=3], Item [itemId=681, quantity=2], Item [itemId=237, quantity=5], Item [itemId=547, quantity=3], Item [itemId=15, quantity=8], Item [itemId=75, quantity=1], Item [itemId=647, quantity=5]], clientId=539594] 
+2017-09-18 11:40:59,231|ServiceActivator|Recibo: Order [items=[Item [itemId=349, quantity=4], Item [itemId=237, quantity=9], Item [itemId=991, quantity=7], Item [itemId=638, quantity=5], Item [itemId=29, quantity=6], Item [itemId=840, quantity=4], Item [itemId=839, quantity=9], Item [itemId=715, quantity=1], Item [itemId=508, quantity=3], Item [itemId=173, quantity=1]], clientId=303983] 
+2017-09-18 11:40:59,242|ServiceActivator|Recibo: Order [items=[Item [itemId=718, quantity=8], Item [itemId=314, quantity=10]], clientId=758103] 
+2017-09-18 11:40:59,254|ServiceActivator|Recibo: Order [items=[Item [itemId=89, quantity=3]], clientId=270630] 
+2017-09-18 11:40:59,264|ServiceActivator|Recibo: Order [items=[Item [itemId=551, quantity=8], Item [itemId=993, quantity=9], Item [itemId=337, quantity=10], Item [itemId=583, quantity=5], Item [itemId=871, quantity=5], Item [itemId=575, quantity=3], Item [itemId=225, quantity=4], Item [itemId=90, quantity=1], Item [itemId=643, quantity=3]], clientId=101167] 
+2017-09-18 11:40:59,275|ServiceActivator|Recibo: Order [items=[Item [itemId=499, quantity=8], Item [itemId=706, quantity=8], Item [itemId=31, quantity=7], Item [itemId=865, quantity=4], Item [itemId=110, quantity=2], Item [itemId=344, quantity=10], Item [itemId=1, quantity=5], Item [itemId=698, quantity=10]], clientId=128744] 
+2017-09-18 11:40:59,296|ServiceActivator|Recibo: Order [items=[Item [itemId=303, quantity=4], Item [itemId=418, quantity=5], Item [itemId=720, quantity=9]], clientId=209996] 
+2017-09-18 11:40:59,309|ServiceActivator|Recibo: Order [items=[Item [itemId=305, quantity=10], Item [itemId=661, quantity=10], Item [itemId=711, quantity=3], Item [itemId=409, quantity=5], Item [itemId=196, quantity=4], Item [itemId=344, quantity=2], Item [itemId=33, quantity=5], Item [itemId=131, quantity=6], Item [itemId=607, quantity=3], Item [itemId=389, quantity=10]], clientId=730304] 
+2017-09-18 11:40:59,320|ServiceActivator|Recibo: Order [items=[Item [itemId=211, quantity=1], Item [itemId=446, quantity=8], Item [itemId=5, quantity=9], Item [itemId=953, quantity=9], Item [itemId=836, quantity=2], Item [itemId=707, quantity=5], Item [itemId=129, quantity=7], Item [itemId=915, quantity=9], Item [itemId=276, quantity=8]], clientId=282401] 
+2017-09-18 11:40:59,331|ServiceActivator|Recibo: Order [items=[Item [itemId=416, quantity=8], Item [itemId=270, quantity=9]], clientId=857900] 
+2017-09-18 11:40:59,342|ServiceActivator|Recibo: Order [items=[Item [itemId=548, quantity=10], Item [itemId=916, quantity=3], Item [itemId=859, quantity=6], Item [itemId=764, quantity=3], Item [itemId=439, quantity=5], Item [itemId=0, quantity=7], Item [itemId=116, quantity=5], Item [itemId=476, quantity=2]], clientId=405626] 
+2017-09-18 11:40:59,353|ServiceActivator|Recibo: Order [items=[Item [itemId=707, quantity=6], Item [itemId=765, quantity=2], Item [itemId=333, quantity=2], Item [itemId=280, quantity=6], Item [itemId=853, quantity=4], Item [itemId=684, quantity=5], Item [itemId=499, quantity=7], Item [itemId=110, quantity=7]], clientId=791176] 
+2017-09-18 11:40:59,364|ServiceActivator|Recibo: Order [items=[Item [itemId=417, quantity=3], Item [itemId=975, quantity=9], Item [itemId=979, quantity=8], Item [itemId=620, quantity=7], Item [itemId=480, quantity=7]], clientId=690161] 
+2017-09-18 11:40:59,375|ServiceActivator|Recibo: Order [items=[Item [itemId=385, quantity=2], Item [itemId=47, quantity=5], Item [itemId=418, quantity=10], Item [itemId=864, quantity=7], Item [itemId=464, quantity=6], Item [itemId=553, quantity=8], Item [itemId=829, quantity=10], Item [itemId=97, quantity=7], Item [itemId=388, quantity=8], Item [itemId=733, quantity=3]], clientId=22492] 
+2017-09-18 11:40:59,386|ServiceActivator|Recibo: Order [items=[Item [itemId=80, quantity=4], Item [itemId=564, quantity=2], Item [itemId=47, quantity=1], Item [itemId=792, quantity=2], Item [itemId=250, quantity=1], Item [itemId=580, quantity=9], Item [itemId=324, quantity=2]], clientId=852874] 
+2017-09-18 11:40:59,397|ServiceActivator|Recibo: Order [items=[Item [itemId=557, quantity=2], Item [itemId=412, quantity=10], Item [itemId=326, quantity=3], Item [itemId=201, quantity=6], Item [itemId=260, quantity=3], Item [itemId=274, quantity=10], Item [itemId=770, quantity=2], Item [itemId=967, quantity=3]], clientId=874111] 
+2017-09-18 11:40:59,407|ServiceActivator|Recibo: Order [items=[Item [itemId=234, quantity=2]], clientId=617196] 
+2017-09-18 11:40:59,419|ServiceActivator|Recibo: Order [items=[Item [itemId=879, quantity=7], Item [itemId=609, quantity=1]], clientId=945638] 
+2017-09-18 11:40:59,431|ServiceActivator|Recibo: Order [items=[Item [itemId=134, quantity=6], Item [itemId=494, quantity=10], Item [itemId=355, quantity=7], Item [itemId=167, quantity=5], Item [itemId=172, quantity=7], Item [itemId=159, quantity=4], Item [itemId=574, quantity=9]], clientId=121789] 
+2017-09-18 11:40:59,442|ServiceActivator|Recibo: Order [items=[Item [itemId=992, quantity=7], Item [itemId=53, quantity=5], Item [itemId=33, quantity=10], Item [itemId=651, quantity=1], Item [itemId=812, quantity=3], Item [itemId=81, quantity=4], Item [itemId=759, quantity=4]], clientId=152844] 
+2017-09-18 11:40:59,452|ServiceActivator|Recibo: Order [items=[Item [itemId=24, quantity=5], Item [itemId=260, quantity=1], Item [itemId=394, quantity=7]], clientId=466840] 
+2017-09-18 11:40:59,463|ServiceActivator|Recibo: Order [items=[Item [itemId=63, quantity=5], Item [itemId=746, quantity=10], Item [itemId=68, quantity=7], Item [itemId=509, quantity=10], Item [itemId=75, quantity=5], Item [itemId=475, quantity=9], Item [itemId=377, quantity=5], Item [itemId=166, quantity=4], Item [itemId=220, quantity=10], Item [itemId=814, quantity=5]], clientId=428224] 
+2017-09-18 11:40:59,474|ServiceActivator|Recibo: Order [items=[Item [itemId=970, quantity=1], Item [itemId=870, quantity=1], Item [itemId=151, quantity=8]], clientId=157677] 
+2017-09-18 11:40:59,485|ServiceActivator|Recibo: Order [items=[Item [itemId=62, quantity=1], Item [itemId=929, quantity=4], Item [itemId=254, quantity=4]], clientId=291078] 
+2017-09-18 11:40:59,496|ServiceActivator|Recibo: Order [items=[Item [itemId=577, quantity=6], Item [itemId=572, quantity=8], Item [itemId=609, quantity=2], Item [itemId=395, quantity=2], Item [itemId=308, quantity=2], Item [itemId=120, quantity=10], Item [itemId=102, quantity=5], Item [itemId=202, quantity=5], Item [itemId=466, quantity=5]], clientId=242870] 
+2017-09-18 11:40:59,507|ServiceActivator|Recibo: Order [items=[Item [itemId=749, quantity=4], Item [itemId=226, quantity=8], Item [itemId=162, quantity=3], Item [itemId=518, quantity=9], Item [itemId=831, quantity=8], Item [itemId=836, quantity=10], Item [itemId=566, quantity=4]], clientId=608875] 
+2017-09-18 11:40:59,519|ServiceActivator|Recibo: Order [items=[Item [itemId=528, quantity=6], Item [itemId=493, quantity=7], Item [itemId=64, quantity=6], Item [itemId=754, quantity=9], Item [itemId=495, quantity=6], Item [itemId=337, quantity=1], Item [itemId=132, quantity=8], Item [itemId=291, quantity=1], Item [itemId=510, quantity=4], Item [itemId=836, quantity=1]], clientId=943634] 
+2017-09-18 11:40:59,531|ServiceActivator|Recibo: Order [items=[Item [itemId=430, quantity=5], Item [itemId=426, quantity=4], Item [itemId=721, quantity=5], Item [itemId=501, quantity=5], Item [itemId=777, quantity=6], Item [itemId=839, quantity=1]], clientId=794153] 
+2017-09-18 11:40:59,542|ServiceActivator|Recibo: Order [items=[Item [itemId=327, quantity=4]], clientId=591872] 
+2017-09-18 11:40:59,553|ServiceActivator|Recibo: Order [items=[Item [itemId=577, quantity=8], Item [itemId=934, quantity=2], Item [itemId=583, quantity=4]], clientId=867378] 
+2017-09-18 11:40:59,563|ServiceActivator|Recibo: Order [items=[Item [itemId=551, quantity=2], Item [itemId=409, quantity=4], Item [itemId=573, quantity=10], Item [itemId=823, quantity=4], Item [itemId=788, quantity=3], Item [itemId=201, quantity=3], Item [itemId=27, quantity=8]], clientId=697401] 
+2017-09-18 11:40:59,578|ServiceActivator|Recibo: Order [items=[Item [itemId=584, quantity=1], Item [itemId=771, quantity=8]], clientId=181148] 
+2017-09-18 11:40:59,586|ServiceActivator|Recibo: Order [items=[Item [itemId=836, quantity=7], Item [itemId=899, quantity=9], Item [itemId=19, quantity=3], Item [itemId=986, quantity=5], Item [itemId=51, quantity=9], Item [itemId=744, quantity=1], Item [itemId=596, quantity=5], Item [itemId=736, quantity=2]], clientId=466153] 
+2017-09-18 11:40:59,596|ServiceActivator|Recibo: Order [items=[Item [itemId=69, quantity=8], Item [itemId=894, quantity=7], Item [itemId=337, quantity=8], Item [itemId=249, quantity=7], Item [itemId=182, quantity=1]], clientId=958250] 
+2017-09-18 11:40:59,607|ServiceActivator|Recibo: Order [items=[Item [itemId=806, quantity=1], Item [itemId=818, quantity=6], Item [itemId=9, quantity=5], Item [itemId=370, quantity=7], Item [itemId=440, quantity=9], Item [itemId=432, quantity=10], Item [itemId=165, quantity=8]], clientId=537996] 
+2017-09-18 11:40:59,623|ServiceActivator|Recibo: Order [items=[Item [itemId=112, quantity=7], Item [itemId=968, quantity=9], Item [itemId=279, quantity=5], Item [itemId=943, quantity=10], Item [itemId=9, quantity=4], Item [itemId=811, quantity=10]], clientId=620531] 
+2017-09-18 11:40:59,634|ServiceActivator|Recibo: Order [items=[Item [itemId=61, quantity=5]], clientId=245794] 
+2017-09-18 11:40:59,647|ServiceActivator|Recibo: Order [items=[Item [itemId=729, quantity=1], Item [itemId=959, quantity=2], Item [itemId=913, quantity=5], Item [itemId=43, quantity=10], Item [itemId=190, quantity=5], Item [itemId=545, quantity=4]], clientId=526258] 
+2017-09-18 11:40:59,657|ServiceActivator|Recibo: Order [items=[Item [itemId=2, quantity=10], Item [itemId=377, quantity=8], Item [itemId=286, quantity=2], Item [itemId=123, quantity=3], Item [itemId=475, quantity=10], Item [itemId=611, quantity=2]], clientId=642318] 
+2017-09-18 11:40:59,668|ServiceActivator|Recibo: Order [items=[Item [itemId=32, quantity=5], Item [itemId=176, quantity=6], Item [itemId=352, quantity=4], Item [itemId=392, quantity=1], Item [itemId=191, quantity=1], Item [itemId=58, quantity=8], Item [itemId=665, quantity=8], Item [itemId=967, quantity=9], Item [itemId=887, quantity=5], Item [itemId=77, quantity=5]], clientId=807401] 
+2017-09-18 11:40:59,679|ServiceActivator|Recibo: Order [items=[Item [itemId=318, quantity=5], Item [itemId=346, quantity=5], Item [itemId=934, quantity=9], Item [itemId=113, quantity=8], Item [itemId=277, quantity=2], Item [itemId=84, quantity=1], Item [itemId=165, quantity=8], Item [itemId=535, quantity=3], Item [itemId=777, quantity=7]], clientId=678033] 
+2017-09-18 11:40:59,691|ServiceActivator|Recibo: Order [items=[Item [itemId=68, quantity=4], Item [itemId=7, quantity=7], Item [itemId=537, quantity=3], Item [itemId=209, quantity=7], Item [itemId=714, quantity=10]], clientId=303666] 
+2017-09-18 11:40:59,702|ServiceActivator|Recibo: Order [items=[Item [itemId=966, quantity=9], Item [itemId=987, quantity=7], Item [itemId=385, quantity=6], Item [itemId=383, quantity=9], Item [itemId=171, quantity=4], Item [itemId=238, quantity=10]], clientId=398301] 
+2017-09-18 11:40:59,719|ServiceActivator|Recibo: Order [items=[Item [itemId=90, quantity=10], Item [itemId=326, quantity=2], Item [itemId=420, quantity=6], Item [itemId=945, quantity=5], Item [itemId=489, quantity=9], Item [itemId=463, quantity=8]], clientId=931939] 
+2017-09-18 11:40:59,735|ServiceActivator|Recibo: Order [items=[Item [itemId=437, quantity=2], Item [itemId=416, quantity=2], Item [itemId=335, quantity=5], Item [itemId=840, quantity=6], Item [itemId=866, quantity=1], Item [itemId=199, quantity=6], Item [itemId=189, quantity=9], Item [itemId=116, quantity=8], Item [itemId=776, quantity=4]], clientId=99225] 
+2017-09-18 11:40:59,746|ServiceActivator|Recibo: Order [items=[Item [itemId=317, quantity=7], Item [itemId=429, quantity=7]], clientId=568221] 
+2017-09-18 11:40:59,757|ServiceActivator|Recibo: Order [items=[Item [itemId=438, quantity=3], Item [itemId=521, quantity=7], Item [itemId=172, quantity=3], Item [itemId=286, quantity=1], Item [itemId=340, quantity=7], Item [itemId=222, quantity=5], Item [itemId=604, quantity=10], Item [itemId=246, quantity=5], Item [itemId=622, quantity=3], Item [itemId=813, quantity=10]], clientId=201905] 
+2017-09-18 11:40:59,768|ServiceActivator|Recibo: Order [items=[Item [itemId=701, quantity=1], Item [itemId=575, quantity=5], Item [itemId=989, quantity=2], Item [itemId=154, quantity=7]], clientId=96178] 
+2017-09-18 11:40:59,779|ServiceActivator|Recibo: Order [items=[Item [itemId=451, quantity=6], Item [itemId=828, quantity=5]], clientId=987030] 
+2017-09-18 11:40:59,789|ServiceActivator|Recibo: Order [items=[Item [itemId=398, quantity=8], Item [itemId=847, quantity=9], Item [itemId=473, quantity=2], Item [itemId=762, quantity=7], Item [itemId=23, quantity=7], Item [itemId=782, quantity=2], Item [itemId=185, quantity=10], Item [itemId=962, quantity=8], Item [itemId=862, quantity=9], Item [itemId=83, quantity=9]], clientId=870256] 
+2017-09-18 11:40:59,800|ServiceActivator|Recibo: Order [items=[Item [itemId=88, quantity=2], Item [itemId=307, quantity=3]], clientId=473049] 
+2017-09-18 11:40:59,815|ServiceActivator|Recibo: Order [items=[Item [itemId=111, quantity=1], Item [itemId=828, quantity=3], Item [itemId=948, quantity=10], Item [itemId=570, quantity=8], Item [itemId=132, quantity=9]], clientId=739470] 
+2017-09-18 11:40:59,826|ServiceActivator|Recibo: Order [items=[Item [itemId=794, quantity=1], Item [itemId=31, quantity=7], Item [itemId=3, quantity=10], Item [itemId=20, quantity=4], Item [itemId=584, quantity=6], Item [itemId=323, quantity=2], Item [itemId=446, quantity=5], Item [itemId=846, quantity=8], Item [itemId=392, quantity=1]], clientId=857247] 
+2017-09-18 11:40:59,837|ServiceActivator|Recibo: Order [items=[Item [itemId=261, quantity=10], Item [itemId=421, quantity=3], Item [itemId=949, quantity=5], Item [itemId=539, quantity=9], Item [itemId=148, quantity=4], Item [itemId=786, quantity=6], Item [itemId=699, quantity=6], Item [itemId=479, quantity=4], Item [itemId=840, quantity=7]], clientId=245106] 
+2017-09-18 11:40:59,848|ServiceActivator|Recibo: Order [items=[Item [itemId=427, quantity=4], Item [itemId=71, quantity=6], Item [itemId=952, quantity=8], Item [itemId=525, quantity=9], Item [itemId=416, quantity=6], Item [itemId=49, quantity=2], Item [itemId=953, quantity=10], Item [itemId=447, quantity=1]], clientId=22018] 
+2017-09-18 11:40:59,859|ServiceActivator|Recibo: Order [items=[Item [itemId=497, quantity=9], Item [itemId=402, quantity=10]], clientId=866013] 
+2017-09-18 11:40:59,869|ServiceActivator|Recibo: Order [items=[Item [itemId=337, quantity=4], Item [itemId=798, quantity=7], Item [itemId=905, quantity=6], Item [itemId=383, quantity=3], Item [itemId=313, quantity=10], Item [itemId=257, quantity=7], Item [itemId=215, quantity=9], Item [itemId=117, quantity=1]], clientId=190789] 
+2017-09-18 11:40:59,880|ServiceActivator|Recibo: Order [items=[Item [itemId=970, quantity=6], Item [itemId=764, quantity=4], Item [itemId=466, quantity=9], Item [itemId=883, quantity=7], Item [itemId=497, quantity=2], Item [itemId=491, quantity=4], Item [itemId=218, quantity=2], Item [itemId=964, quantity=10], Item [itemId=525, quantity=1]], clientId=968628] 
+2017-09-18 11:40:59,891|ServiceActivator|Recibo: Order [items=[Item [itemId=918, quantity=3], Item [itemId=36, quantity=9], Item [itemId=316, quantity=6], Item [itemId=517, quantity=7], Item [itemId=549, quantity=8], Item [itemId=244, quantity=4], Item [itemId=40, quantity=8], Item [itemId=659, quantity=6], Item [itemId=531, quantity=10]], clientId=136305] 
+2017-09-18 11:40:59,902|ServiceActivator|Recibo: Order [items=[Item [itemId=233, quantity=4], Item [itemId=536, quantity=3], Item [itemId=149, quantity=4], Item [itemId=709, quantity=9]], clientId=228524] 
+2017-09-18 11:40:59,913|ServiceActivator|Recibo: Order [items=[Item [itemId=670, quantity=4], Item [itemId=607, quantity=4], Item [itemId=289, quantity=4], Item [itemId=34, quantity=2], Item [itemId=645, quantity=5], Item [itemId=55, quantity=1], Item [itemId=94, quantity=4]], clientId=426000] 
+2017-09-18 11:40:59,924|ServiceActivator|Recibo: Order [items=[Item [itemId=154, quantity=2], Item [itemId=708, quantity=4], Item [itemId=574, quantity=3], Item [itemId=839, quantity=7], Item [itemId=712, quantity=3], Item [itemId=169, quantity=5], Item [itemId=861, quantity=5], Item [itemId=600, quantity=5], Item [itemId=769, quantity=4], Item [itemId=751, quantity=1]], clientId=108496] 
+2017-09-18 11:40:59,936|ServiceActivator|Recibo: Order [items=[Item [itemId=461, quantity=4], Item [itemId=1, quantity=7], Item [itemId=188, quantity=5], Item [itemId=305, quantity=8], Item [itemId=818, quantity=4], Item [itemId=208, quantity=6]], clientId=853893] 
+2017-09-18 11:40:59,946|ServiceActivator|Recibo: Order [items=[Item [itemId=937, quantity=10], Item [itemId=388, quantity=3], Item [itemId=146, quantity=5], Item [itemId=785, quantity=6], Item [itemId=669, quantity=7], Item [itemId=406, quantity=4], Item [itemId=4, quantity=10], Item [itemId=263, quantity=3]], clientId=587506] 
+2017-09-18 11:40:59,957|ServiceActivator|Recibo: Order [items=[Item [itemId=730, quantity=2], Item [itemId=499, quantity=4]], clientId=967878] 
+2017-09-18 11:40:59,968|ServiceActivator|Recibo: Order [items=[Item [itemId=227, quantity=5], Item [itemId=937, quantity=1], Item [itemId=568, quantity=9], Item [itemId=660, quantity=5], Item [itemId=907, quantity=1], Item [itemId=672, quantity=7], Item [itemId=465, quantity=2], Item [itemId=63, quantity=5]], clientId=482796] 
+2017-09-18 11:40:59,979|ServiceActivator|Recibo: Order [items=[Item [itemId=368, quantity=8], Item [itemId=461, quantity=7], Item [itemId=206, quantity=3], Item [itemId=292, quantity=5], Item [itemId=75, quantity=2], Item [itemId=317, quantity=6], Item [itemId=757, quantity=2], Item [itemId=708, quantity=6]], clientId=575800] 
+2017-09-18 11:40:59,994|ServiceActivator|Recibo: Order [items=[Item [itemId=318, quantity=8], Item [itemId=822, quantity=2], Item [itemId=620, quantity=7], Item [itemId=106, quantity=9], Item [itemId=21, quantity=3], Item [itemId=73, quantity=6], Item [itemId=732, quantity=5], Item [itemId=219, quantity=3]], clientId=873105] 
+2017-09-18 11:41:00,002|ServiceActivator|Recibo: Order [items=[Item [itemId=172, quantity=5], Item [itemId=600, quantity=1], Item [itemId=704, quantity=8], Item [itemId=495, quantity=5], Item [itemId=973, quantity=6], Item [itemId=606, quantity=7], Item [itemId=397, quantity=1], Item [itemId=167, quantity=3], Item [itemId=377, quantity=3], Item [itemId=204, quantity=3]], clientId=120422] 
+2017-09-18 11:41:00,012|ServiceActivator|Recibo: Order [items=[Item [itemId=874, quantity=7], Item [itemId=767, quantity=4], Item [itemId=404, quantity=4], Item [itemId=720, quantity=6], Item [itemId=679, quantity=5]], clientId=910582] 
+2017-09-18 11:41:00,023|ServiceActivator|Recibo: Order [items=[Item [itemId=955, quantity=3], Item [itemId=403, quantity=8], Item [itemId=597, quantity=3], Item [itemId=223, quantity=9], Item [itemId=891, quantity=10], Item [itemId=494, quantity=3]], clientId=708189] 
+2017-09-18 11:41:00,034|ServiceActivator|Recibo: Order [items=[Item [itemId=319, quantity=5], Item [itemId=887, quantity=6], Item [itemId=896, quantity=3]], clientId=970454] 
+2017-09-18 11:41:00,045|ServiceActivator|Recibo: Order [items=[Item [itemId=704, quantity=9], Item [itemId=133, quantity=5], Item [itemId=862, quantity=6], Item [itemId=406, quantity=10], Item [itemId=188, quantity=1], Item [itemId=984, quantity=9], Item [itemId=341, quantity=5], Item [itemId=722, quantity=1], Item [itemId=239, quantity=1]], clientId=245798] 
+2017-09-18 11:41:00,055|ServiceActivator|Recibo: Order [items=[Item [itemId=368, quantity=9], Item [itemId=854, quantity=1], Item [itemId=484, quantity=10], Item [itemId=938, quantity=7], Item [itemId=163, quantity=2]], clientId=253542] 
+2017-09-18 11:41:00,066|ServiceActivator|Recibo: Order [items=[Item [itemId=855, quantity=8]], clientId=407392] 
+2017-09-18 11:41:00,078|ServiceActivator|Recibo: Order [items=[Item [itemId=51, quantity=3], Item [itemId=535, quantity=5], Item [itemId=143, quantity=10]], clientId=158518] 
+2017-09-18 11:41:00,089|ServiceActivator|Recibo: Order [items=[Item [itemId=990, quantity=10], Item [itemId=693, quantity=3], Item [itemId=729, quantity=2]], clientId=621242] 
+2017-09-18 11:41:00,099|ServiceActivator|Recibo: Order [items=[Item [itemId=53, quantity=1], Item [itemId=779, quantity=7], Item [itemId=974, quantity=10], Item [itemId=726, quantity=10], Item [itemId=966, quantity=7], Item [itemId=99, quantity=2], Item [itemId=181, quantity=6], Item [itemId=358, quantity=7], Item [itemId=679, quantity=1]], clientId=629504] 
+2017-09-18 11:41:00,110|ServiceActivator|Recibo: Order [items=[Item [itemId=864, quantity=4], Item [itemId=724, quantity=7], Item [itemId=986, quantity=3], Item [itemId=470, quantity=7], Item [itemId=188, quantity=3], Item [itemId=231, quantity=6], Item [itemId=623, quantity=4], Item [itemId=28, quantity=5], Item [itemId=237, quantity=2], Item [itemId=449, quantity=9]], clientId=748683] 
+2017-09-18 11:41:00,121|ServiceActivator|Recibo: Order [items=[Item [itemId=3, quantity=4], Item [itemId=154, quantity=10], Item [itemId=599, quantity=4], Item [itemId=772, quantity=6]], clientId=898321] 
+2017-09-18 11:41:00,132|ServiceActivator|Recibo: Order [items=[Item [itemId=68, quantity=3], Item [itemId=454, quantity=7], Item [itemId=824, quantity=6], Item [itemId=55, quantity=10]], clientId=917966] 
+2017-09-18 11:41:00,143|ServiceActivator|Recibo: Order [items=[Item [itemId=150, quantity=5], Item [itemId=869, quantity=6], Item [itemId=756, quantity=4], Item [itemId=943, quantity=8]], clientId=224081] 
+2017-09-18 11:41:00,153|ServiceActivator|Recibo: Order [items=[Item [itemId=771, quantity=5], Item [itemId=480, quantity=4], Item [itemId=78, quantity=2], Item [itemId=505, quantity=6], Item [itemId=10, quantity=8]], clientId=849661] 
+2017-09-18 11:41:00,165|ServiceActivator|Recibo: Order [items=[Item [itemId=97, quantity=7], Item [itemId=329, quantity=2], Item [itemId=755, quantity=8]], clientId=864497] 
+2017-09-18 11:41:00,176|ServiceActivator|Recibo: Order [items=[Item [itemId=506, quantity=7], Item [itemId=364, quantity=10], Item [itemId=784, quantity=4], Item [itemId=352, quantity=2], Item [itemId=853, quantity=7]], clientId=940104] 
+2017-09-18 11:41:00,188|ServiceActivator|Recibo: Order [items=[Item [itemId=200, quantity=10], Item [itemId=60, quantity=5], Item [itemId=42, quantity=3], Item [itemId=232, quantity=7], Item [itemId=414, quantity=10], Item [itemId=363, quantity=4], Item [itemId=840, quantity=7], Item [itemId=767, quantity=1]], clientId=16175] 
+2017-09-18 11:41:00,198|ServiceActivator|Recibo: Order [items=[Item [itemId=894, quantity=4], Item [itemId=707, quantity=7], Item [itemId=967, quantity=10], Item [itemId=347, quantity=9], Item [itemId=70, quantity=2], Item [itemId=759, quantity=1]], clientId=717170] 
+2017-09-18 11:41:00,209|ServiceActivator|Recibo: Order [items=[Item [itemId=171, quantity=1], Item [itemId=277, quantity=1], Item [itemId=732, quantity=8], Item [itemId=349, quantity=6], Item [itemId=941, quantity=5], Item [itemId=962, quantity=2], Item [itemId=281, quantity=10], Item [itemId=496, quantity=9]], clientId=388425] 
+2017-09-18 11:41:00,220|ServiceActivator|Recibo: Order [items=[Item [itemId=267, quantity=3], Item [itemId=182, quantity=6]], clientId=345865] 
+2017-09-18 11:41:00,231|ServiceActivator|Recibo: Order [items=[Item [itemId=214, quantity=7], Item [itemId=762, quantity=4], Item [itemId=413, quantity=4], Item [itemId=563, quantity=1], Item [itemId=647, quantity=4], Item [itemId=999, quantity=7], Item [itemId=643, quantity=10], Item [itemId=881, quantity=7], Item [itemId=860, quantity=4], Item [itemId=134, quantity=8]], clientId=373244] 
+2017-09-18 11:41:00,243|ServiceActivator|Recibo: Order [items=[Item [itemId=338, quantity=9], Item [itemId=453, quantity=3], Item [itemId=397, quantity=9], Item [itemId=753, quantity=6]], clientId=885312] 
+2017-09-18 11:41:00,253|ServiceActivator|Recibo: Order [items=[Item [itemId=582, quantity=10], Item [itemId=156, quantity=3], Item [itemId=27, quantity=5], Item [itemId=521, quantity=1]], clientId=575159] 
+2017-09-18 11:41:00,268|ServiceActivator|Recibo: Order [items=[Item [itemId=591, quantity=6], Item [itemId=798, quantity=7], Item [itemId=308, quantity=5], Item [itemId=348, quantity=7], Item [itemId=174, quantity=2], Item [itemId=893, quantity=5], Item [itemId=125, quantity=8], Item [itemId=689, quantity=10]], clientId=424490] 
+2017-09-18 11:41:00,279|ServiceActivator|Recibo: Order [items=[Item [itemId=662, quantity=10], Item [itemId=141, quantity=9], Item [itemId=471, quantity=7], Item [itemId=457, quantity=8], Item [itemId=69, quantity=2]], clientId=512225] 
+2017-09-18 11:41:00,291|ServiceActivator|Recibo: Order [items=[Item [itemId=787, quantity=2], Item [itemId=20, quantity=5], Item [itemId=685, quantity=3], Item [itemId=34, quantity=1], Item [itemId=32, quantity=5], Item [itemId=424, quantity=9], Item [itemId=764, quantity=3]], clientId=565845] 
+2017-09-18 11:41:00,301|ServiceActivator|Recibo: Order [items=[Item [itemId=86, quantity=1], Item [itemId=941, quantity=1], Item [itemId=418, quantity=9], Item [itemId=875, quantity=7], Item [itemId=741, quantity=6], Item [itemId=590, quantity=2], Item [itemId=122, quantity=2]], clientId=68676] 
+2017-09-18 11:41:00,312|ServiceActivator|Recibo: Order [items=[Item [itemId=404, quantity=6], Item [itemId=460, quantity=2], Item [itemId=233, quantity=9], Item [itemId=394, quantity=6], Item [itemId=106, quantity=10], Item [itemId=338, quantity=3], Item [itemId=158, quantity=1], Item [itemId=176, quantity=1]], clientId=51521] 
+2017-09-18 11:41:00,323|ServiceActivator|Recibo: Order [items=[Item [itemId=441, quantity=4], Item [itemId=528, quantity=7], Item [itemId=822, quantity=1], Item [itemId=544, quantity=8], Item [itemId=96, quantity=2], Item [itemId=715, quantity=3], Item [itemId=869, quantity=4], Item [itemId=571, quantity=1], Item [itemId=456, quantity=5], Item [itemId=878, quantity=3]], clientId=339220] 
+2017-09-18 11:41:00,334|ServiceActivator|Recibo: Order [items=[Item [itemId=145, quantity=5], Item [itemId=356, quantity=6], Item [itemId=787, quantity=5], Item [itemId=994, quantity=2], Item [itemId=306, quantity=3], Item [itemId=206, quantity=10], Item [itemId=335, quantity=8]], clientId=576188] 
+2017-09-18 11:41:00,345|ServiceActivator|Recibo: Order [items=[Item [itemId=680, quantity=5], Item [itemId=946, quantity=10], Item [itemId=377, quantity=5], Item [itemId=267, quantity=7], Item [itemId=179, quantity=9], Item [itemId=517, quantity=8]], clientId=436704] 
+2017-09-18 11:41:00,356|ServiceActivator|Recibo: Order [items=[Item [itemId=317, quantity=3], Item [itemId=375, quantity=7], Item [itemId=241, quantity=9], Item [itemId=519, quantity=5], Item [itemId=691, quantity=1], Item [itemId=469, quantity=4], Item [itemId=424, quantity=8], Item [itemId=218, quantity=9], Item [itemId=961, quantity=2], Item [itemId=68, quantity=10]], clientId=57883] 
+2017-09-18 11:41:00,368|ServiceActivator|Recibo: Order [items=[Item [itemId=91, quantity=5], Item [itemId=519, quantity=8], Item [itemId=564, quantity=7], Item [itemId=929, quantity=8], Item [itemId=387, quantity=3]], clientId=325076] 
+2017-09-18 11:41:00,379|ServiceActivator|Recibo: Order [items=[Item [itemId=705, quantity=5], Item [itemId=284, quantity=10], Item [itemId=77, quantity=8], Item [itemId=696, quantity=2], Item [itemId=480, quantity=9], Item [itemId=157, quantity=4], Item [itemId=716, quantity=6], Item [itemId=567, quantity=2]], clientId=732439] 
+2017-09-18 11:41:00,390|ServiceActivator|Recibo: Order [items=[Item [itemId=289, quantity=5], Item [itemId=266, quantity=7], Item [itemId=386, quantity=5], Item [itemId=331, quantity=8], Item [itemId=264, quantity=2], Item [itemId=978, quantity=3], Item [itemId=605, quantity=6], Item [itemId=158, quantity=6], Item [itemId=583, quantity=5], Item [itemId=661, quantity=3]], clientId=460264] 
+2017-09-18 11:41:00,402|ServiceActivator|Recibo: Order [items=[Item [itemId=536, quantity=9], Item [itemId=702, quantity=3], Item [itemId=526, quantity=6], Item [itemId=245, quantity=10], Item [itemId=123, quantity=4], Item [itemId=914, quantity=5], Item [itemId=83, quantity=5]], clientId=385857] 
+2017-09-18 11:41:00,412|ServiceActivator|Recibo: Order [items=[Item [itemId=7, quantity=6], Item [itemId=197, quantity=6]], clientId=337385] 
+2017-09-18 11:41:00,423|ServiceActivator|Recibo: Order [items=[Item [itemId=596, quantity=4], Item [itemId=417, quantity=10], Item [itemId=969, quantity=7], Item [itemId=716, quantity=1], Item [itemId=255, quantity=8], Item [itemId=163, quantity=10], Item [itemId=499, quantity=7], Item [itemId=34, quantity=8], Item [itemId=208, quantity=6]], clientId=896611] 
+2017-09-18 11:41:00,434|ServiceActivator|Recibo: Order [items=[Item [itemId=255, quantity=10], Item [itemId=640, quantity=10], Item [itemId=623, quantity=3], Item [itemId=751, quantity=1], Item [itemId=284, quantity=5], Item [itemId=692, quantity=6], Item [itemId=979, quantity=3], Item [itemId=796, quantity=5], Item [itemId=510, quantity=7]], clientId=178594] 
+2017-09-18 11:41:00,445|ServiceActivator|Recibo: Order [items=[Item [itemId=365, quantity=3], Item [itemId=738, quantity=5], Item [itemId=940, quantity=3], Item [itemId=799, quantity=6], Item [itemId=11, quantity=10], Item [itemId=487, quantity=3], Item [itemId=283, quantity=6]], clientId=704757] 
+2017-09-18 11:41:00,456|ServiceActivator|Recibo: Order [items=[Item [itemId=597, quantity=3], Item [itemId=649, quantity=8], Item [itemId=428, quantity=6], Item [itemId=888, quantity=1], Item [itemId=577, quantity=4], Item [itemId=756, quantity=3], Item [itemId=286, quantity=4]], clientId=898791] 
+2017-09-18 11:41:00,467|ServiceActivator|Recibo: Order [items=[Item [itemId=246, quantity=10]], clientId=476217] 
+2017-09-18 11:41:00,478|ServiceActivator|Recibo: Order [items=[Item [itemId=643, quantity=3], Item [itemId=961, quantity=6], Item [itemId=267, quantity=5], Item [itemId=407, quantity=10], Item [itemId=808, quantity=8], Item [itemId=736, quantity=10], Item [itemId=356, quantity=1]], clientId=527869] 
+2017-09-18 11:41:00,491|ServiceActivator|Recibo: Order [items=[Item [itemId=377, quantity=6], Item [itemId=182, quantity=8], Item [itemId=381, quantity=8]], clientId=483443] 
+2017-09-18 11:41:00,501|ServiceActivator|Recibo: Order [items=[Item [itemId=493, quantity=8], Item [itemId=259, quantity=3], Item [itemId=388, quantity=2], Item [itemId=115, quantity=7], Item [itemId=106, quantity=3], Item [itemId=78, quantity=6], Item [itemId=381, quantity=8], Item [itemId=369, quantity=5], Item [itemId=626, quantity=5], Item [itemId=869, quantity=9]], clientId=984361] 
+2017-09-18 11:41:00,514|ServiceActivator|Recibo: Order [items=[Item [itemId=619, quantity=2], Item [itemId=887, quantity=4], Item [itemId=85, quantity=6], Item [itemId=287, quantity=2], Item [itemId=677, quantity=1], Item [itemId=951, quantity=3]], clientId=26376] 
+2017-09-18 11:41:00,527|ServiceActivator|Recibo: Order [items=[Item [itemId=495, quantity=4], Item [itemId=354, quantity=3], Item [itemId=731, quantity=8], Item [itemId=454, quantity=7], Item [itemId=500, quantity=10], Item [itemId=551, quantity=5], Item [itemId=190, quantity=6], Item [itemId=458, quantity=10], Item [itemId=676, quantity=10]], clientId=971668] 
+2017-09-18 11:41:00,537|ServiceActivator|Recibo: Order [items=[Item [itemId=874, quantity=4], Item [itemId=227, quantity=4], Item [itemId=675, quantity=3], Item [itemId=966, quantity=7], Item [itemId=617, quantity=8], Item [itemId=382, quantity=1], Item [itemId=731, quantity=9], Item [itemId=566, quantity=3]], clientId=905203] 
+2017-09-18 11:41:00,548|ServiceActivator|Recibo: Order [items=[Item [itemId=818, quantity=4], Item [itemId=849, quantity=4], Item [itemId=648, quantity=4], Item [itemId=192, quantity=10], Item [itemId=431, quantity=3], Item [itemId=860, quantity=7]], clientId=210391] 
+2017-09-18 11:41:00,559|ServiceActivator|Recibo: Order [items=[Item [itemId=447, quantity=4], Item [itemId=516, quantity=5], Item [itemId=266, quantity=6]], clientId=66398] 
+2017-09-18 11:41:00,570|ServiceActivator|Recibo: Order [items=[Item [itemId=484, quantity=1], Item [itemId=872, quantity=9], Item [itemId=290, quantity=9]], clientId=299689] 
+2017-09-18 11:41:00,581|ServiceActivator|Recibo: Order [items=[Item [itemId=827, quantity=6], Item [itemId=566, quantity=10], Item [itemId=870, quantity=7], Item [itemId=541, quantity=2]], clientId=481955] 
+2017-09-18 11:41:00,591|ServiceActivator|Recibo: Order [items=[Item [itemId=183, quantity=2], Item [itemId=18, quantity=5], Item [itemId=909, quantity=9], Item [itemId=450, quantity=6], Item [itemId=856, quantity=1], Item [itemId=50, quantity=5], Item [itemId=484, quantity=9], Item [itemId=911, quantity=9]], clientId=53538] 
+2017-09-18 11:41:00,602|ServiceActivator|Recibo: Order [items=[Item [itemId=329, quantity=10], Item [itemId=466, quantity=3]], clientId=628190] 
+2017-09-18 11:41:00,614|ServiceActivator|Recibo: Order [items=[Item [itemId=483, quantity=6], Item [itemId=686, quantity=5], Item [itemId=376, quantity=3], Item [itemId=159, quantity=4], Item [itemId=315, quantity=8], Item [itemId=377, quantity=3]], clientId=749931] 
+2017-09-18 11:41:00,624|ServiceActivator|Recibo: Order [items=[Item [itemId=277, quantity=6], Item [itemId=42, quantity=3]], clientId=355886] 
+2017-09-18 11:41:00,636|ServiceActivator|Recibo: Order [items=[Item [itemId=674, quantity=8], Item [itemId=805, quantity=9], Item [itemId=927, quantity=7], Item [itemId=284, quantity=6], Item [itemId=342, quantity=3], Item [itemId=625, quantity=2], Item [itemId=571, quantity=6], Item [itemId=897, quantity=9]], clientId=774021] 
+2017-09-18 11:41:00,647|ServiceActivator|Recibo: Order [items=[Item [itemId=927, quantity=5], Item [itemId=518, quantity=1], Item [itemId=326, quantity=9], Item [itemId=623, quantity=5]], clientId=303049] 
+2017-09-18 11:41:00,657|ServiceActivator|Recibo: Order [items=[Item [itemId=759, quantity=6], Item [itemId=318, quantity=9], Item [itemId=551, quantity=3], Item [itemId=309, quantity=6], Item [itemId=83, quantity=5]], clientId=760690] 
+2017-09-18 11:41:00,669|ServiceActivator|Recibo: Order [items=[Item [itemId=582, quantity=2], Item [itemId=304, quantity=9], Item [itemId=614, quantity=10], Item [itemId=944, quantity=10], Item [itemId=294, quantity=2], Item [itemId=748, quantity=8], Item [itemId=414, quantity=5], Item [itemId=760, quantity=3]], clientId=91385] 
+2017-09-18 11:41:00,681|ServiceActivator|Recibo: Order [items=[Item [itemId=285, quantity=9]], clientId=836163] 
+2017-09-18 11:41:00,691|ServiceActivator|Recibo: Order [items=[Item [itemId=920, quantity=10], Item [itemId=393, quantity=3], Item [itemId=677, quantity=6], Item [itemId=527, quantity=8], Item [itemId=491, quantity=7], Item [itemId=952, quantity=2], Item [itemId=610, quantity=8], Item [itemId=337, quantity=4], Item [itemId=351, quantity=8]], clientId=923511] 
+2017-09-18 11:41:00,702|ServiceActivator|Recibo: Order [items=[Item [itemId=429, quantity=1], Item [itemId=199, quantity=6]], clientId=343999] 
+2017-09-18 11:41:00,715|ServiceActivator|Recibo: Order [items=[Item [itemId=729, quantity=2], Item [itemId=824, quantity=9], Item [itemId=195, quantity=1], Item [itemId=667, quantity=3], Item [itemId=848, quantity=6], Item [itemId=809, quantity=8], Item [itemId=737, quantity=4], Item [itemId=697, quantity=6]], clientId=587490] 
+2017-09-18 11:41:00,731|ServiceActivator|Recibo: Order [items=[Item [itemId=345, quantity=9], Item [itemId=996, quantity=2], Item [itemId=342, quantity=2], Item [itemId=421, quantity=3], Item [itemId=737, quantity=1], Item [itemId=944, quantity=1], Item [itemId=987, quantity=3], Item [itemId=126, quantity=5], Item [itemId=718, quantity=7]], clientId=786093] 
+2017-09-18 11:41:00,741|ServiceActivator|Recibo: Order [items=[Item [itemId=522, quantity=1], Item [itemId=718, quantity=7]], clientId=132764] 
+2017-09-18 11:41:00,752|ServiceActivator|Recibo: Order [items=[Item [itemId=396, quantity=1], Item [itemId=722, quantity=1]], clientId=406591] 
+2017-09-18 11:41:00,763|ServiceActivator|Recibo: Order [items=[Item [itemId=543, quantity=1], Item [itemId=491, quantity=1], Item [itemId=952, quantity=7], Item [itemId=487, quantity=4], Item [itemId=197, quantity=2]], clientId=429378] 
+2017-09-18 11:41:00,774|ServiceActivator|Recibo: Order [items=[Item [itemId=618, quantity=3], Item [itemId=336, quantity=8], Item [itemId=131, quantity=4], Item [itemId=231, quantity=6], Item [itemId=46, quantity=10], Item [itemId=290, quantity=7], Item [itemId=483, quantity=8]], clientId=136667] 
+2017-09-18 11:41:00,785|ServiceActivator|Recibo: Order [items=[Item [itemId=520, quantity=5], Item [itemId=578, quantity=7], Item [itemId=149, quantity=1], Item [itemId=16, quantity=3]], clientId=669893] 
+2017-09-18 11:41:00,795|ServiceActivator|Recibo: Order [items=[Item [itemId=172, quantity=5], Item [itemId=259, quantity=6], Item [itemId=277, quantity=6], Item [itemId=519, quantity=2]], clientId=860167] 
+2017-09-18 11:41:00,806|ServiceActivator|Recibo: Order [items=[Item [itemId=84, quantity=8], Item [itemId=90, quantity=2], Item [itemId=166, quantity=8], Item [itemId=18, quantity=4], Item [itemId=760, quantity=1], Item [itemId=857, quantity=10]], clientId=226602] 
+2017-09-18 11:41:00,817|ServiceActivator|Recibo: Order [items=[Item [itemId=766, quantity=6]], clientId=806704] 
+2017-09-18 11:41:00,828|ServiceActivator|Recibo: Order [items=[Item [itemId=386, quantity=10], Item [itemId=60, quantity=2], Item [itemId=803, quantity=3], Item [itemId=36, quantity=10], Item [itemId=902, quantity=7], Item [itemId=829, quantity=8]], clientId=999258] 
+2017-09-18 11:41:00,841|ServiceActivator|Recibo: Order [items=[Item [itemId=550, quantity=8], Item [itemId=285, quantity=7], Item [itemId=435, quantity=9], Item [itemId=723, quantity=6], Item [itemId=553, quantity=10], Item [itemId=19, quantity=9], Item [itemId=747, quantity=4]], clientId=11350] 
+2017-09-18 11:41:00,854|ServiceActivator|Recibo: Order [items=[Item [itemId=855, quantity=3], Item [itemId=368, quantity=7], Item [itemId=118, quantity=6], Item [itemId=783, quantity=1], Item [itemId=731, quantity=8]], clientId=40742] 
+2017-09-18 11:41:00,867|ServiceActivator|Recibo: Order [items=[Item [itemId=517, quantity=5], Item [itemId=621, quantity=3], Item [itemId=800, quantity=9]], clientId=442072] 
+2017-09-18 11:41:00,882|ServiceActivator|Recibo: Order [items=[Item [itemId=534, quantity=1], Item [itemId=206, quantity=5], Item [itemId=523, quantity=2], Item [itemId=759, quantity=4]], clientId=242780] 
+2017-09-18 11:41:00,896|ServiceActivator|Recibo: Order [items=[Item [itemId=591, quantity=2], Item [itemId=764, quantity=9], Item [itemId=212, quantity=2], Item [itemId=578, quantity=10], Item [itemId=951, quantity=8]], clientId=231383] 
+2017-09-18 11:41:00,915|ServiceActivator|Recibo: Order [items=[Item [itemId=335, quantity=4], Item [itemId=615, quantity=6], Item [itemId=424, quantity=1], Item [itemId=666, quantity=5], Item [itemId=92, quantity=5], Item [itemId=123, quantity=5], Item [itemId=561, quantity=1], Item [itemId=43, quantity=7]], clientId=35519] 
+2017-09-18 11:41:00,925|ServiceActivator|Recibo: Order [items=[Item [itemId=889, quantity=7], Item [itemId=379, quantity=2], Item [itemId=696, quantity=1], Item [itemId=444, quantity=2], Item [itemId=253, quantity=1], Item [itemId=316, quantity=4], Item [itemId=267, quantity=1]], clientId=152266] 
+2017-09-18 11:41:00,937|ServiceActivator|Recibo: Order [items=[Item [itemId=886, quantity=6], Item [itemId=634, quantity=7], Item [itemId=508, quantity=2], Item [itemId=559, quantity=9], Item [itemId=379, quantity=1]], clientId=302181] 
+2017-09-18 11:41:00,956|ServiceActivator|Recibo: Order [items=[Item [itemId=21, quantity=7], Item [itemId=834, quantity=4], Item [itemId=422, quantity=2], Item [itemId=856, quantity=7]], clientId=384670] 
+2017-09-18 11:41:00,961|ServiceActivator|Recibo: Order [items=[Item [itemId=554, quantity=7], Item [itemId=202, quantity=10], Item [itemId=498, quantity=1], Item [itemId=350, quantity=4], Item [itemId=706, quantity=2], Item [itemId=296, quantity=3], Item [itemId=609, quantity=3], Item [itemId=902, quantity=10], Item [itemId=598, quantity=1], Item [itemId=385, quantity=1]], clientId=119090] 
+2017-09-18 11:41:00,972|ServiceActivator|Recibo: Order [items=[Item [itemId=737, quantity=6], Item [itemId=259, quantity=1], Item [itemId=962, quantity=4], Item [itemId=479, quantity=8], Item [itemId=490, quantity=1], Item [itemId=857, quantity=10], Item [itemId=277, quantity=5], Item [itemId=739, quantity=2]], clientId=461127] 
+2017-09-18 11:41:00,983|ServiceActivator|Recibo: Order [items=[Item [itemId=353, quantity=3], Item [itemId=913, quantity=10], Item [itemId=789, quantity=3], Item [itemId=539, quantity=3]], clientId=117612] 
+2017-09-18 11:41:00,993|ServiceActivator|Recibo: Order [items=[Item [itemId=969, quantity=7], Item [itemId=204, quantity=5], Item [itemId=254, quantity=10], Item [itemId=291, quantity=2], Item [itemId=9, quantity=1], Item [itemId=822, quantity=7], Item [itemId=49, quantity=4], Item [itemId=677, quantity=3], Item [itemId=114, quantity=9], Item [itemId=706, quantity=1]], clientId=893928] 
+2017-09-18 11:41:01,004|ServiceActivator|Recibo: Order [items=[Item [itemId=22, quantity=6], Item [itemId=515, quantity=5], Item [itemId=560, quantity=2]], clientId=892476] 
+2017-09-18 11:41:01,015|ServiceActivator|Recibo: Order [items=[Item [itemId=305, quantity=3], Item [itemId=916, quantity=3]], clientId=12571] 
+2017-09-18 11:41:01,026|ServiceActivator|Recibo: Order [items=[Item [itemId=329, quantity=3], Item [itemId=302, quantity=10], Item [itemId=173, quantity=3], Item [itemId=309, quantity=1], Item [itemId=790, quantity=1], Item [itemId=636, quantity=10], Item [itemId=839, quantity=7], Item [itemId=549, quantity=2]], clientId=58688] 
+2017-09-18 11:41:01,037|ServiceActivator|Recibo: Order [items=[Item [itemId=873, quantity=6], Item [itemId=434, quantity=4], Item [itemId=567, quantity=4]], clientId=61277] 
+2017-09-18 11:41:01,048|ServiceActivator|Recibo: Order [items=[Item [itemId=402, quantity=7], Item [itemId=693, quantity=5]], clientId=8719] 
+2017-09-18 11:41:01,058|ServiceActivator|Recibo: Order [items=[Item [itemId=156, quantity=1]], clientId=118617] 
+2017-09-18 11:41:01,069|ServiceActivator|Recibo: Order [items=[Item [itemId=842, quantity=7]], clientId=213386] 
+2017-09-18 11:41:01,080|ServiceActivator|Recibo: Order [items=[Item [itemId=202, quantity=6], Item [itemId=863, quantity=10], Item [itemId=573, quantity=9], Item [itemId=235, quantity=8], Item [itemId=265, quantity=4], Item [itemId=220, quantity=10], Item [itemId=573, quantity=4], Item [itemId=716, quantity=9]], clientId=512591] 
+2017-09-18 11:41:01,090|ServiceActivator|Recibo: Order [items=[Item [itemId=362, quantity=6], Item [itemId=902, quantity=6], Item [itemId=406, quantity=5], Item [itemId=995, quantity=4]], clientId=222427] 
+2017-09-18 11:41:01,101|ServiceActivator|Recibo: Order [items=[Item [itemId=547, quantity=6], Item [itemId=934, quantity=8], Item [itemId=360, quantity=1]], clientId=169441] 
+2017-09-18 11:41:01,112|ServiceActivator|Recibo: Order [items=[Item [itemId=776, quantity=2], Item [itemId=372, quantity=5], Item [itemId=56, quantity=4], Item [itemId=666, quantity=3], Item [itemId=347, quantity=7], Item [itemId=30, quantity=7], Item [itemId=660, quantity=6], Item [itemId=386, quantity=6]], clientId=850189] 
+2017-09-18 11:41:01,123|ServiceActivator|Recibo: Order [items=[Item [itemId=736, quantity=1], Item [itemId=61, quantity=9], Item [itemId=728, quantity=4]], clientId=342202] 
+2017-09-18 11:41:01,134|ServiceActivator|Recibo: Order [items=[Item [itemId=713, quantity=1], Item [itemId=52, quantity=5], Item [itemId=215, quantity=6], Item [itemId=217, quantity=8]], clientId=164744] 
+2017-09-18 11:41:01,140|SimpleLogger|Recibo: 215.94 count: 1
+2017-09-18 11:41:01,145|ServiceActivator|Recibo: Order [items=[Item [itemId=65, quantity=5], Item [itemId=406, quantity=5], Item [itemId=916, quantity=2], Item [itemId=81, quantity=2]], clientId=229723] 
+2017-09-18 11:41:01,155|ServiceActivator|Recibo: Order [items=[Item [itemId=688, quantity=2], Item [itemId=777, quantity=8]], clientId=749799] 
+2017-09-18 11:41:01,166|ServiceActivator|Recibo: Order [items=[Item [itemId=734, quantity=2], Item [itemId=71, quantity=10]], clientId=64452] 
+2017-09-18 11:41:01,177|ServiceActivator|Recibo: Order [items=[Item [itemId=589, quantity=3], Item [itemId=374, quantity=9], Item [itemId=112, quantity=7], Item [itemId=228, quantity=5], Item [itemId=855, quantity=9], Item [itemId=980, quantity=5], Item [itemId=537, quantity=4]], clientId=691512] 
+2017-09-18 11:41:01,188|ServiceActivator|Recibo: Order [items=[Item [itemId=770, quantity=5], Item [itemId=19, quantity=7], Item [itemId=42, quantity=1], Item [itemId=720, quantity=7], Item [itemId=621, quantity=7], Item [itemId=12, quantity=7], Item [itemId=553, quantity=4], Item [itemId=518, quantity=7]], clientId=497147] 
+2017-09-18 11:41:01,199|ServiceActivator|Recibo: Order [items=[Item [itemId=867, quantity=6], Item [itemId=602, quantity=5], Item [itemId=428, quantity=8], Item [itemId=409, quantity=1], Item [itemId=621, quantity=7], Item [itemId=478, quantity=1], Item [itemId=760, quantity=3], Item [itemId=525, quantity=4], Item [itemId=21, quantity=3]], clientId=243471] 
+2017-09-18 11:41:01,210|ServiceActivator|Recibo: Order [items=[Item [itemId=233, quantity=9], Item [itemId=406, quantity=2], Item [itemId=306, quantity=4], Item [itemId=984, quantity=5], Item [itemId=522, quantity=8], Item [itemId=454, quantity=3], Item [itemId=867, quantity=10], Item [itemId=547, quantity=1], Item [itemId=839, quantity=3]], clientId=691772] 
+2017-09-18 11:41:01,220|ServiceActivator|Recibo: Order [items=[Item [itemId=148, quantity=10], Item [itemId=162, quantity=8], Item [itemId=64, quantity=10], Item [itemId=112, quantity=1]], clientId=71303] 
+2017-09-18 11:41:01,234|ServiceActivator|Recibo: Order [items=[Item [itemId=525, quantity=4], Item [itemId=167, quantity=10], Item [itemId=544, quantity=4]], clientId=237693] 
+2017-09-18 11:41:01,245|ServiceActivator|Recibo: Order [items=[Item [itemId=737, quantity=4], Item [itemId=544, quantity=8], Item [itemId=832, quantity=4]], clientId=592023] 
+2017-09-18 11:41:01,255|ServiceActivator|Recibo: Order [items=[Item [itemId=991, quantity=10]], clientId=527644] 
+2017-09-18 11:41:01,266|ServiceActivator|Recibo: Order [items=[Item [itemId=893, quantity=6], Item [itemId=782, quantity=7], Item [itemId=968, quantity=7], Item [itemId=508, quantity=2], Item [itemId=566, quantity=5], Item [itemId=83, quantity=5], Item [itemId=161, quantity=8], Item [itemId=56, quantity=6], Item [itemId=514, quantity=4]], clientId=900812] 
+2017-09-18 11:41:01,277|ServiceActivator|Recibo: Order [items=[Item [itemId=549, quantity=4], Item [itemId=923, quantity=9], Item [itemId=964, quantity=4], Item [itemId=364, quantity=8]], clientId=281831] 
+2017-09-18 11:41:01,288|ServiceActivator|Recibo: Order [items=[Item [itemId=690, quantity=5], Item [itemId=533, quantity=7]], clientId=223016] 
+2017-09-18 11:41:01,298|ServiceActivator|Recibo: Order [items=[Item [itemId=477, quantity=7], Item [itemId=267, quantity=10], Item [itemId=964, quantity=3], Item [itemId=400, quantity=10], Item [itemId=41, quantity=5], Item [itemId=739, quantity=4], Item [itemId=613, quantity=4], Item [itemId=505, quantity=1], Item [itemId=673, quantity=2]], clientId=44808] 
+2017-09-18 11:41:01,309|ServiceActivator|Recibo: Order [items=[Item [itemId=527, quantity=7], Item [itemId=165, quantity=5], Item [itemId=814, quantity=6], Item [itemId=855, quantity=5], Item [itemId=433, quantity=7], Item [itemId=473, quantity=8], Item [itemId=621, quantity=8], Item [itemId=407, quantity=3], Item [itemId=117, quantity=7], Item [itemId=883, quantity=6]], clientId=325079] 
+2017-09-18 11:41:01,320|ServiceActivator|Recibo: Order [items=[Item [itemId=74, quantity=3], Item [itemId=463, quantity=6], Item [itemId=555, quantity=3], Item [itemId=207, quantity=5], Item [itemId=239, quantity=3], Item [itemId=488, quantity=7]], clientId=974603] 
+2017-09-18 11:41:01,331|ServiceActivator|Recibo: Order [items=[Item [itemId=76, quantity=5], Item [itemId=785, quantity=10], Item [itemId=202, quantity=9], Item [itemId=900, quantity=10], Item [itemId=690, quantity=6], Item [itemId=841, quantity=10]], clientId=58826] 
+2017-09-18 11:41:01,343|ServiceActivator|Recibo: Order [items=[Item [itemId=692, quantity=5], Item [itemId=8, quantity=2], Item [itemId=226, quantity=5], Item [itemId=104, quantity=8], Item [itemId=783, quantity=10], Item [itemId=825, quantity=6]], clientId=96206] 
+2017-09-18 11:41:01,354|ServiceActivator|Recibo: Order [items=[Item [itemId=546, quantity=9], Item [itemId=130, quantity=8], Item [itemId=461, quantity=2], Item [itemId=664, quantity=2]], clientId=405427] 
+2017-09-18 11:41:01,365|ServiceActivator|Recibo: Order [items=[Item [itemId=37, quantity=9], Item [itemId=605, quantity=1], Item [itemId=581, quantity=10], Item [itemId=448, quantity=3], Item [itemId=835, quantity=9]], clientId=569348] 
+2017-09-18 11:41:01,376|ServiceActivator|Recibo: Order [items=[Item [itemId=206, quantity=5], Item [itemId=471, quantity=4], Item [itemId=628, quantity=9]], clientId=467419] 
+2017-09-18 11:41:01,387|ServiceActivator|Recibo: Order [items=[Item [itemId=916, quantity=1], Item [itemId=464, quantity=9], Item [itemId=204, quantity=9], Item [itemId=292, quantity=10], Item [itemId=580, quantity=9], Item [itemId=237, quantity=2], Item [itemId=393, quantity=8], Item [itemId=334, quantity=8], Item [itemId=349, quantity=4]], clientId=991589] 
+2017-09-18 11:41:01,401|ServiceActivator|Recibo: Order [items=[Item [itemId=716, quantity=4], Item [itemId=50, quantity=3], Item [itemId=918, quantity=3], Item [itemId=634, quantity=9], Item [itemId=132, quantity=7], Item [itemId=825, quantity=1], Item [itemId=744, quantity=7], Item [itemId=671, quantity=2]], clientId=289315] 
+2017-09-18 11:41:01,413|ServiceActivator|Recibo: Order [items=[Item [itemId=557, quantity=8], Item [itemId=86, quantity=1], Item [itemId=986, quantity=4], Item [itemId=940, quantity=7]], clientId=380982] 
+2017-09-18 11:41:01,427|ServiceActivator|Recibo: Order [items=[Item [itemId=203, quantity=10], Item [itemId=565, quantity=9], Item [itemId=797, quantity=1], Item [itemId=249, quantity=5], Item [itemId=956, quantity=4], Item [itemId=741, quantity=3], Item [itemId=259, quantity=9], Item [itemId=57, quantity=7]], clientId=753301] 
+2017-09-18 11:41:01,444|ServiceActivator|Recibo: Order [items=[Item [itemId=126, quantity=9], Item [itemId=821, quantity=3], Item [itemId=503, quantity=8], Item [itemId=321, quantity=1], Item [itemId=300, quantity=9], Item [itemId=943, quantity=10], Item [itemId=970, quantity=3]], clientId=974640] 
+2017-09-18 11:41:01,456|ServiceActivator|Recibo: Order [items=[Item [itemId=239, quantity=2], Item [itemId=192, quantity=1], Item [itemId=375, quantity=7], Item [itemId=410, quantity=3], Item [itemId=333, quantity=2], Item [itemId=751, quantity=10], Item [itemId=291, quantity=4], Item [itemId=130, quantity=7]], clientId=216166] 
+2017-09-18 11:41:01,469|ServiceActivator|Recibo: Order [items=[Item [itemId=21, quantity=8], Item [itemId=682, quantity=5], Item [itemId=537, quantity=8]], clientId=647632] 
+2017-09-18 11:41:01,483|ServiceActivator|Recibo: Order [items=[Item [itemId=70, quantity=4], Item [itemId=316, quantity=8], Item [itemId=977, quantity=5], Item [itemId=773, quantity=7], Item [itemId=333, quantity=2], Item [itemId=944, quantity=2], Item [itemId=863, quantity=6], Item [itemId=594, quantity=2], Item [itemId=239, quantity=6]], clientId=813962] 
+2017-09-18 11:41:01,497|ServiceActivator|Recibo: Order [items=[Item [itemId=204, quantity=1], Item [itemId=707, quantity=4], Item [itemId=606, quantity=5], Item [itemId=487, quantity=10], Item [itemId=857, quantity=1], Item [itemId=771, quantity=5], Item [itemId=424, quantity=3], Item [itemId=448, quantity=2], Item [itemId=916, quantity=9], Item [itemId=64, quantity=8]], clientId=202298] 
+2017-09-18 11:41:01,515|ServiceActivator|Recibo: Order [items=[Item [itemId=27, quantity=8], Item [itemId=369, quantity=7], Item [itemId=333, quantity=2], Item [itemId=622, quantity=3], Item [itemId=650, quantity=9], Item [itemId=115, quantity=7], Item [itemId=363, quantity=7], Item [itemId=298, quantity=10]], clientId=300084] 
+2017-09-18 11:41:01,526|ServiceActivator|Recibo: Order [items=[Item [itemId=923, quantity=6]], clientId=689674] 
+2017-09-18 11:41:01,537|ServiceActivator|Recibo: Order [items=[Item [itemId=671, quantity=4], Item [itemId=674, quantity=3], Item [itemId=884, quantity=2], Item [itemId=783, quantity=6], Item [itemId=106, quantity=1], Item [itemId=766, quantity=5]], clientId=675881] 
+2017-09-18 11:41:01,548|ServiceActivator|Recibo: Order [items=[Item [itemId=653, quantity=6], Item [itemId=677, quantity=4], Item [itemId=914, quantity=8], Item [itemId=279, quantity=5], Item [itemId=151, quantity=10], Item [itemId=628, quantity=5]], clientId=513209] 
+2017-09-18 11:41:01,559|ServiceActivator|Recibo: Order [items=[Item [itemId=143, quantity=9], Item [itemId=342, quantity=6], Item [itemId=138, quantity=10], Item [itemId=383, quantity=6]], clientId=302656] 
+2017-09-18 11:41:01,570|ServiceActivator|Recibo: Order [items=[Item [itemId=877, quantity=3], Item [itemId=340, quantity=4]], clientId=934953] 
+2017-09-18 11:41:01,580|ServiceActivator|Recibo: Order [items=[Item [itemId=586, quantity=3], Item [itemId=216, quantity=9]], clientId=806200] 
+2017-09-18 11:41:01,591|ServiceActivator|Recibo: Order [items=[Item [itemId=487, quantity=7]], clientId=931150] 
+2017-09-18 11:41:01,602|ServiceActivator|Recibo: Order [items=[Item [itemId=94, quantity=1]], clientId=957365] 
+2017-09-18 11:41:01,619|ServiceActivator|Recibo: Order [items=[Item [itemId=371, quantity=6], Item [itemId=416, quantity=3], Item [itemId=763, quantity=10], Item [itemId=845, quantity=4], Item [itemId=488, quantity=7], Item [itemId=330, quantity=8]], clientId=431416] 
+2017-09-18 11:41:01,630|ServiceActivator|Recibo: Order [items=[Item [itemId=753, quantity=9], Item [itemId=416, quantity=1], Item [itemId=221, quantity=9], Item [itemId=317, quantity=5], Item [itemId=261, quantity=1], Item [itemId=634, quantity=2], Item [itemId=794, quantity=4], Item [itemId=769, quantity=9]], clientId=535193] 
+2017-09-18 11:41:01,643|ServiceActivator|Recibo: Order [items=[Item [itemId=619, quantity=7]], clientId=250497] 
+2017-09-18 11:41:01,652|ServiceActivator|Recibo: Order [items=[Item [itemId=584, quantity=2], Item [itemId=480, quantity=6], Item [itemId=590, quantity=3]], clientId=611451] 
+2017-09-18 11:41:01,662|ServiceActivator|Recibo: Order [items=[Item [itemId=152, quantity=6], Item [itemId=921, quantity=7], Item [itemId=27, quantity=8], Item [itemId=898, quantity=5], Item [itemId=485, quantity=5], Item [itemId=566, quantity=6]], clientId=605647] 
+2017-09-18 11:41:01,673|ServiceActivator|Recibo: Order [items=[Item [itemId=816, quantity=4], Item [itemId=169, quantity=1], Item [itemId=724, quantity=6], Item [itemId=393, quantity=3], Item [itemId=846, quantity=9], Item [itemId=636, quantity=2], Item [itemId=203, quantity=7], Item [itemId=871, quantity=1], Item [itemId=167, quantity=5], Item [itemId=165, quantity=10]], clientId=253831] 
+2017-09-18 11:41:01,684|ServiceActivator|Recibo: Order [items=[Item [itemId=830, quantity=10], Item [itemId=672, quantity=3], Item [itemId=589, quantity=10], Item [itemId=359, quantity=4], Item [itemId=190, quantity=3], Item [itemId=323, quantity=4]], clientId=474822] 
+2017-09-18 11:41:01,695|ServiceActivator|Recibo: Order [items=[Item [itemId=207, quantity=7], Item [itemId=479, quantity=4], Item [itemId=142, quantity=8], Item [itemId=340, quantity=5]], clientId=740850] 
+2017-09-18 11:41:01,705|ServiceActivator|Recibo: Order [items=[Item [itemId=27, quantity=9], Item [itemId=503, quantity=5], Item [itemId=666, quantity=3], Item [itemId=80, quantity=6], Item [itemId=91, quantity=6], Item [itemId=824, quantity=2], Item [itemId=728, quantity=3], Item [itemId=221, quantity=5], Item [itemId=138, quantity=3], Item [itemId=28, quantity=1]], clientId=992973] 
+2017-09-18 11:41:01,716|ServiceActivator|Recibo: Order [items=[Item [itemId=520, quantity=6], Item [itemId=909, quantity=9], Item [itemId=430, quantity=10], Item [itemId=740, quantity=2], Item [itemId=574, quantity=10]], clientId=101656] 
+2017-09-18 11:41:01,727|ServiceActivator|Recibo: Order [items=[Item [itemId=857, quantity=7], Item [itemId=285, quantity=3], Item [itemId=269, quantity=2]], clientId=176764] 
+2017-09-18 11:41:01,738|ServiceActivator|Recibo: Order [items=[Item [itemId=364, quantity=7], Item [itemId=671, quantity=5], Item [itemId=353, quantity=1]], clientId=278003] 
+2017-09-18 11:41:01,749|ServiceActivator|Recibo: Order [items=[Item [itemId=154, quantity=9], Item [itemId=282, quantity=8], Item [itemId=541, quantity=8], Item [itemId=22, quantity=3], Item [itemId=88, quantity=9], Item [itemId=992, quantity=1], Item [itemId=437, quantity=6]], clientId=195423] 
+2017-09-18 11:41:01,759|ServiceActivator|Recibo: Order [items=[Item [itemId=696, quantity=4], Item [itemId=482, quantity=5], Item [itemId=456, quantity=9]], clientId=598138] 
+2017-09-18 11:41:01,770|ServiceActivator|Recibo: Order [items=[Item [itemId=378, quantity=8], Item [itemId=920, quantity=7], Item [itemId=530, quantity=10], Item [itemId=438, quantity=1], Item [itemId=567, quantity=1], Item [itemId=950, quantity=10], Item [itemId=570, quantity=3]], clientId=912489] 
+2017-09-18 11:41:01,784|ServiceActivator|Recibo: Order [items=[Item [itemId=945, quantity=5], Item [itemId=292, quantity=2], Item [itemId=685, quantity=1], Item [itemId=60, quantity=8], Item [itemId=337, quantity=9], Item [itemId=714, quantity=10], Item [itemId=219, quantity=4], Item [itemId=663, quantity=9], Item [itemId=640, quantity=8]], clientId=453780] 
+2017-09-18 11:41:01,798|ServiceActivator|Recibo: Order [items=[Item [itemId=195, quantity=3], Item [itemId=840, quantity=9], Item [itemId=859, quantity=7], Item [itemId=939, quantity=5], Item [itemId=725, quantity=3], Item [itemId=708, quantity=5], Item [itemId=601, quantity=2], Item [itemId=104, quantity=2]], clientId=147257] 
+2017-09-18 11:41:01,811|ServiceActivator|Recibo: Order [items=[Item [itemId=862, quantity=1]], clientId=836023] 
+2017-09-18 11:41:01,827|ServiceActivator|Recibo: Order [items=[Item [itemId=675, quantity=10], Item [itemId=821, quantity=5], Item [itemId=968, quantity=4], Item [itemId=614, quantity=2], Item [itemId=426, quantity=10], Item [itemId=150, quantity=8], Item [itemId=603, quantity=3], Item [itemId=426, quantity=2], Item [itemId=8, quantity=6]], clientId=330241] 
+2017-09-18 11:41:01,840|ServiceActivator|Recibo: Order [items=[Item [itemId=2, quantity=3], Item [itemId=672, quantity=9], Item [itemId=852, quantity=2]], clientId=157090] 
+2017-09-18 11:41:01,853|ServiceActivator|Recibo: Order [items=[Item [itemId=8, quantity=9], Item [itemId=340, quantity=2], Item [itemId=492, quantity=4], Item [itemId=950, quantity=10], Item [itemId=827, quantity=6], Item [itemId=216, quantity=10], Item [itemId=839, quantity=10], Item [itemId=422, quantity=1], Item [itemId=280, quantity=2]], clientId=448985] 
+2017-09-18 11:41:01,867|ServiceActivator|Recibo: Order [items=[Item [itemId=859, quantity=6], Item [itemId=501, quantity=8], Item [itemId=784, quantity=10]], clientId=81139] 
+2017-09-18 11:41:01,879|ServiceActivator|Recibo: Order [items=[Item [itemId=54, quantity=4], Item [itemId=309, quantity=6], Item [itemId=952, quantity=7], Item [itemId=922, quantity=10], Item [itemId=926, quantity=1], Item [itemId=256, quantity=3], Item [itemId=648, quantity=10], Item [itemId=760, quantity=4], Item [itemId=507, quantity=1], Item [itemId=976, quantity=9]], clientId=678495] 
+2017-09-18 11:41:01,890|ServiceActivator|Recibo: Order [items=[Item [itemId=725, quantity=10], Item [itemId=926, quantity=6], Item [itemId=827, quantity=6], Item [itemId=418, quantity=1], Item [itemId=857, quantity=7], Item [itemId=532, quantity=5], Item [itemId=12, quantity=9]], clientId=665893] 
+2017-09-18 11:41:01,901|ServiceActivator|Recibo: Order [items=[Item [itemId=535, quantity=8], Item [itemId=24, quantity=9], Item [itemId=17, quantity=8], Item [itemId=978, quantity=5], Item [itemId=447, quantity=1], Item [itemId=225, quantity=4], Item [itemId=978, quantity=7], Item [itemId=21, quantity=10]], clientId=773384] 
+2017-09-18 11:41:01,914|ServiceActivator|Recibo: Order [items=[Item [itemId=288, quantity=10]], clientId=124906] 
+2017-09-18 11:41:01,924|ServiceActivator|Recibo: Order [items=[Item [itemId=532, quantity=7]], clientId=298056] 
+2017-09-18 11:41:01,935|ServiceActivator|Recibo: Order [items=[Item [itemId=281, quantity=8], Item [itemId=709, quantity=1], Item [itemId=999, quantity=9], Item [itemId=283, quantity=3], Item [itemId=816, quantity=6], Item [itemId=400, quantity=8], Item [itemId=172, quantity=3]], clientId=386721] 
+2017-09-18 11:41:01,946|ServiceActivator|Recibo: Order [items=[Item [itemId=619, quantity=2]], clientId=106458] 
+2017-09-18 11:41:01,956|ServiceActivator|Recibo: Order [items=[Item [itemId=381, quantity=6], Item [itemId=823, quantity=3], Item [itemId=983, quantity=2], Item [itemId=346, quantity=6], Item [itemId=518, quantity=9], Item [itemId=335, quantity=1]], clientId=991924] 
+2017-09-18 11:41:01,968|ServiceActivator|Recibo: Order [items=[Item [itemId=390, quantity=3], Item [itemId=440, quantity=1], Item [itemId=356, quantity=8]], clientId=422316] 
+2017-09-18 11:41:01,978|ServiceActivator|Recibo: Order [items=[Item [itemId=99, quantity=4], Item [itemId=735, quantity=4], Item [itemId=239, quantity=9], Item [itemId=593, quantity=9], Item [itemId=492, quantity=6], Item [itemId=864, quantity=5], Item [itemId=597, quantity=10], Item [itemId=563, quantity=5]], clientId=15057] 
+2017-09-18 11:41:01,989|ServiceActivator|Recibo: Order [items=[Item [itemId=219, quantity=1], Item [itemId=619, quantity=10], Item [itemId=807, quantity=1], Item [itemId=897, quantity=7], Item [itemId=251, quantity=10], Item [itemId=454, quantity=10], Item [itemId=973, quantity=10], Item [itemId=602, quantity=1], Item [itemId=305, quantity=7]], clientId=927915] 
+2017-09-18 11:41:01,999|ServiceActivator|Recibo: Order [items=[Item [itemId=188, quantity=7], Item [itemId=826, quantity=8], Item [itemId=299, quantity=5]], clientId=515523] 
+2017-09-18 11:41:02,010|ServiceActivator|Recibo: Order [items=[Item [itemId=509, quantity=3], Item [itemId=639, quantity=10], Item [itemId=83, quantity=6], Item [itemId=239, quantity=7], Item [itemId=745, quantity=10], Item [itemId=952, quantity=6], Item [itemId=333, quantity=8], Item [itemId=726, quantity=8]], clientId=606566] 
+2017-09-18 11:41:02,021|ServiceActivator|Recibo: Order [items=[Item [itemId=822, quantity=6], Item [itemId=370, quantity=7], Item [itemId=592, quantity=9], Item [itemId=576, quantity=6], Item [itemId=491, quantity=8], Item [itemId=652, quantity=2], Item [itemId=264, quantity=1]], clientId=204780] 
+2017-09-18 11:41:02,032|ServiceActivator|Recibo: Order [items=[Item [itemId=41, quantity=7], Item [itemId=600, quantity=5], Item [itemId=821, quantity=2], Item [itemId=200, quantity=9], Item [itemId=892, quantity=3]], clientId=182241] 
+2017-09-18 11:41:02,043|ServiceActivator|Recibo: Order [items=[Item [itemId=372, quantity=9], Item [itemId=360, quantity=10], Item [itemId=671, quantity=7], Item [itemId=994, quantity=7], Item [itemId=244, quantity=4], Item [itemId=664, quantity=7]], clientId=893665] 
+2017-09-18 11:41:02,053|ServiceActivator|Recibo: Order [items=[Item [itemId=685, quantity=1], Item [itemId=58, quantity=4], Item [itemId=21, quantity=4]], clientId=644921] 
+2017-09-18 11:41:02,064|ServiceActivator|Recibo: Order [items=[Item [itemId=426, quantity=6], Item [itemId=404, quantity=1], Item [itemId=192, quantity=8], Item [itemId=967, quantity=10], Item [itemId=335, quantity=10], Item [itemId=433, quantity=7]], clientId=542114] 
+2017-09-18 11:41:02,075|ServiceActivator|Recibo: Order [items=[Item [itemId=232, quantity=10], Item [itemId=698, quantity=8], Item [itemId=976, quantity=5], Item [itemId=689, quantity=9], Item [itemId=897, quantity=9], Item [itemId=145, quantity=10], Item [itemId=114, quantity=8]], clientId=449070] 
+2017-09-18 11:41:02,086|ServiceActivator|Recibo: Order [items=[Item [itemId=206, quantity=4], Item [itemId=988, quantity=9], Item [itemId=731, quantity=8], Item [itemId=754, quantity=5], Item [itemId=282, quantity=1], Item [itemId=907, quantity=9], Item [itemId=911, quantity=7]], clientId=154357] 
+2017-09-18 11:41:02,097|ServiceActivator|Recibo: Order [items=[Item [itemId=112, quantity=5], Item [itemId=697, quantity=8], Item [itemId=812, quantity=9], Item [itemId=477, quantity=5], Item [itemId=37, quantity=9]], clientId=667474] 
+2017-09-18 11:41:02,110|ServiceActivator|Recibo: Order [items=[Item [itemId=776, quantity=3], Item [itemId=326, quantity=9], Item [itemId=65, quantity=10], Item [itemId=638, quantity=5]], clientId=991582] 
+2017-09-18 11:41:02,122|ServiceActivator|Recibo: Order [items=[Item [itemId=130, quantity=3], Item [itemId=1, quantity=4], Item [itemId=897, quantity=3]], clientId=494733] 
+2017-09-18 11:41:02,133|ServiceActivator|Recibo: Order [items=[Item [itemId=984, quantity=2]], clientId=813884] 
+2017-09-18 11:41:02,145|ServiceActivator|Recibo: Order [items=[Item [itemId=351, quantity=4], Item [itemId=991, quantity=1]], clientId=693514] 
+2017-09-18 11:41:02,156|ServiceActivator|Recibo: Order [items=[Item [itemId=659, quantity=5], Item [itemId=948, quantity=9], Item [itemId=92, quantity=1], Item [itemId=119, quantity=1], Item [itemId=882, quantity=5], Item [itemId=130, quantity=7], Item [itemId=480, quantity=1]], clientId=300610] 
+2017-09-18 11:41:02,169|ServiceActivator|Recibo: Order [items=[Item [itemId=94, quantity=5], Item [itemId=512, quantity=7], Item [itemId=343, quantity=4], Item [itemId=354, quantity=7], Item [itemId=965, quantity=5], Item [itemId=299, quantity=10], Item [itemId=313, quantity=7], Item [itemId=750, quantity=6]], clientId=324034] 
+2017-09-18 11:41:02,182|ServiceActivator|Recibo: Order [items=[Item [itemId=336, quantity=5], Item [itemId=761, quantity=10], Item [itemId=519, quantity=9], Item [itemId=439, quantity=3]], clientId=498385] 
+2017-09-18 11:41:02,193|ServiceActivator|Recibo: Order [items=[Item [itemId=891, quantity=7], Item [itemId=189, quantity=9], Item [itemId=363, quantity=3], Item [itemId=451, quantity=8]], clientId=235235] 
+2017-09-18 11:41:02,205|ServiceActivator|Recibo: Order [items=[Item [itemId=573, quantity=10], Item [itemId=674, quantity=3], Item [itemId=545, quantity=6], Item [itemId=852, quantity=2], Item [itemId=990, quantity=1], Item [itemId=684, quantity=10], Item [itemId=879, quantity=9], Item [itemId=315, quantity=6], Item [itemId=522, quantity=4]], clientId=434031] 
+2017-09-18 11:41:02,217|ServiceActivator|Recibo: Order [items=[Item [itemId=508, quantity=2], Item [itemId=493, quantity=1], Item [itemId=829, quantity=4], Item [itemId=389, quantity=8], Item [itemId=2, quantity=1], Item [itemId=372, quantity=1], Item [itemId=928, quantity=2], Item [itemId=422, quantity=9], Item [itemId=946, quantity=7], Item [itemId=848, quantity=3]], clientId=938588] 
+2017-09-18 11:41:02,229|ServiceActivator|Recibo: Order [items=[Item [itemId=36, quantity=2], Item [itemId=966, quantity=10], Item [itemId=626, quantity=1], Item [itemId=504, quantity=9]], clientId=10599] 
+2017-09-18 11:41:02,240|ServiceActivator|Recibo: Order [items=[Item [itemId=163, quantity=3], Item [itemId=768, quantity=9], Item [itemId=496, quantity=8], Item [itemId=154, quantity=10], Item [itemId=91, quantity=7], Item [itemId=200, quantity=5], Item [itemId=613, quantity=1]], clientId=861960] 
+2017-09-18 11:41:02,252|ServiceActivator|Recibo: Order [items=[Item [itemId=713, quantity=9], Item [itemId=976, quantity=9], Item [itemId=214, quantity=7], Item [itemId=582, quantity=3], Item [itemId=297, quantity=10], Item [itemId=172, quantity=6], Item [itemId=586, quantity=9], Item [itemId=959, quantity=10], Item [itemId=775, quantity=9], Item [itemId=769, quantity=7]], clientId=837629] 
+2017-09-18 11:41:02,265|ServiceActivator|Recibo: Order [items=[Item [itemId=511, quantity=7], Item [itemId=640, quantity=7], Item [itemId=67, quantity=8], Item [itemId=620, quantity=9], Item [itemId=449, quantity=7], Item [itemId=26, quantity=4], Item [itemId=631, quantity=3], Item [itemId=225, quantity=5], Item [itemId=424, quantity=6], Item [itemId=984, quantity=7]], clientId=161204] 
+2017-09-18 11:41:02,276|ServiceActivator|Recibo: Order [items=[Item [itemId=534, quantity=4], Item [itemId=803, quantity=1]], clientId=532811] 
+2017-09-18 11:41:02,288|ServiceActivator|Recibo: Order [items=[Item [itemId=301, quantity=9], Item [itemId=136, quantity=9], Item [itemId=832, quantity=1], Item [itemId=34, quantity=10], Item [itemId=330, quantity=1], Item [itemId=33, quantity=9], Item [itemId=194, quantity=6]], clientId=489615] 
+2017-09-18 11:41:02,299|ServiceActivator|Recibo: Order [items=[Item [itemId=884, quantity=10], Item [itemId=732, quantity=8]], clientId=206268] 
+2017-09-18 11:41:02,311|ServiceActivator|Recibo: Order [items=[Item [itemId=693, quantity=8], Item [itemId=728, quantity=3], Item [itemId=247, quantity=10], Item [itemId=506, quantity=6], Item [itemId=590, quantity=2], Item [itemId=277, quantity=1], Item [itemId=258, quantity=1], Item [itemId=52, quantity=7], Item [itemId=866, quantity=4], Item [itemId=39, quantity=1]], clientId=868973] 
+2017-09-18 11:41:02,322|ServiceActivator|Recibo: Order [items=[Item [itemId=673, quantity=3], Item [itemId=502, quantity=6], Item [itemId=480, quantity=2], Item [itemId=637, quantity=10]], clientId=751332] 
+2017-09-18 11:41:02,334|ServiceActivator|Recibo: Order [items=[Item [itemId=480, quantity=4], Item [itemId=620, quantity=9], Item [itemId=153, quantity=3], Item [itemId=202, quantity=7], Item [itemId=884, quantity=2], Item [itemId=214, quantity=10], Item [itemId=338, quantity=1], Item [itemId=313, quantity=6]], clientId=51512] 
+2017-09-18 11:41:02,346|ServiceActivator|Recibo: Order [items=[Item [itemId=351, quantity=3]], clientId=561915] 
+2017-09-18 11:41:02,358|ServiceActivator|Recibo: Order [items=[Item [itemId=179, quantity=6], Item [itemId=735, quantity=5], Item [itemId=168, quantity=1], Item [itemId=3, quantity=5], Item [itemId=495, quantity=9], Item [itemId=887, quantity=4], Item [itemId=951, quantity=6], Item [itemId=675, quantity=4], Item [itemId=22, quantity=10]], clientId=641203] 
+2017-09-18 11:41:02,371|ServiceActivator|Recibo: Order [items=[Item [itemId=276, quantity=6], Item [itemId=864, quantity=7], Item [itemId=183, quantity=2], Item [itemId=536, quantity=10], Item [itemId=25, quantity=6], Item [itemId=702, quantity=8], Item [itemId=942, quantity=2], Item [itemId=621, quantity=3]], clientId=763637] 
+2017-09-18 11:41:02,382|ServiceActivator|Recibo: Order [items=[Item [itemId=404, quantity=7], Item [itemId=712, quantity=6], Item [itemId=459, quantity=1], Item [itemId=848, quantity=10], Item [itemId=563, quantity=2], Item [itemId=324, quantity=6]], clientId=604268] 
+2017-09-18 11:41:02,395|ServiceActivator|Recibo: Order [items=[Item [itemId=450, quantity=7]], clientId=255231] 
+2017-09-18 11:41:02,410|ServiceActivator|Recibo: Order [items=[Item [itemId=686, quantity=4], Item [itemId=920, quantity=8], Item [itemId=710, quantity=9], Item [itemId=369, quantity=7], Item [itemId=525, quantity=10], Item [itemId=7, quantity=3], Item [itemId=152, quantity=9], Item [itemId=785, quantity=4]], clientId=445758] 
+2017-09-18 11:41:03,163|SimpleLogger|Recibo: 824.24 count: 2
+2017-09-18 11:41:05,184|SimpleLogger|Recibo: 382.98 count: 3
+2017-09-18 11:41:07,206|SimpleLogger|Recibo: 530.60 count: 4
+2017-09-18 11:41:09,234|SimpleLogger|Recibo: 579.14 count: 5
+2017-09-18 11:41:11,257|SimpleLogger|Recibo: 355.14 count: 6
+2017-09-18 11:41:13,280|SimpleLogger|Recibo: 866.18 count: 7
+2017-09-18 11:41:15,288|SimpleLogger|Recibo: 1034.71 count: 8
+2017-09-18 11:41:17,309|SimpleLogger|Recibo: 523.23 count: 9
+2017-09-18 11:41:19,331|SimpleLogger|Recibo: 912.27 count: 10
+2017-09-18 11:41:21,354|SimpleLogger|Recibo: 693.28 count: 11
+2017-09-18 11:41:23,362|SimpleLogger|Recibo: 479.32 count: 12
+2017-09-18 11:41:25,384|SimpleLogger|Recibo: 735.10 count: 13
+2017-09-18 11:41:27,406|SimpleLogger|Recibo: 519.54 count: 14
+2017-09-18 11:41:29,444|SimpleLogger|Recibo: 547.68 count: 15
+2017-09-18 11:41:31,489|SimpleLogger|Recibo: 507.13 count: 16
+2017-09-18 11:41:33,513|SimpleLogger|Recibo: 646.54 count: 17
+2017-09-18 11:41:35,548|SimpleLogger|Recibo: 642.34 count: 18
+2017-09-18 11:41:37,572|SimpleLogger|Recibo: 392.45 count: 19
+2017-09-18 11:41:39,595|SimpleLogger|Recibo: 695.23 count: 20
+2017-09-18 11:41:41,619|SimpleLogger|Recibo: 904.14 count: 21
+2017-09-18 11:41:43,651|SimpleLogger|Recibo: 276.85 count: 22
+2017-09-18 11:41:45,675|SimpleLogger|Recibo: 626.35 count: 23
+2017-09-18 11:41:47,685|SimpleLogger|Recibo: 64.02 count: 24
+2017-09-18 11:41:49,705|SimpleLogger|Recibo: 674.41 count: 25
+2017-09-18 11:41:51,726|SimpleLogger|Recibo: 671.02 count: 26
+2017-09-18 11:41:53,724|SimpleLogger|Recibo: 735.20 count: 27
+2017-09-18 11:41:55,745|SimpleLogger|Recibo: 87.09 count: 28
+2017-09-18 11:41:57,743|SimpleLogger|Recibo: 72.79 count: 29
+2017-09-18 11:41:59,752|SimpleLogger|Recibo: 684.54 count: 30
+2017-09-18 11:42:01,773|SimpleLogger|Recibo: 364.49 count: 31
+2017-09-18 11:42:03,782|SimpleLogger|Recibo: 346.85 count: 32
+2017-09-18 11:42:05,803|SimpleLogger|Recibo: 780.24 count: 33
+2017-09-18 11:42:07,803|SimpleLogger|Recibo: 70.24 count: 34
+2017-09-18 11:42:09,810|SimpleLogger|Recibo: 514.56 count: 35
+2017-09-18 11:42:11,816|SimpleLogger|Recibo: 656.13 count: 36
+2017-09-18 11:42:13,822|SimpleLogger|Recibo: 886.05 count: 37
+2017-09-18 11:42:15,828|SimpleLogger|Recibo: 934.43 count: 38
+2017-09-18 11:42:17,834|SimpleLogger|Recibo: 934.52 count: 39
+2017-09-18 11:42:19,841|SimpleLogger|Recibo: 840.32 count: 40
+2017-09-18 11:42:21,847|SimpleLogger|Recibo: 270.58 count: 41
+2017-09-18 11:42:23,854|SimpleLogger|Recibo: 108.49 count: 42
+2017-09-18 11:42:25,875|SimpleLogger|Recibo: 265.96 count: 43
+2017-09-18 11:42:27,897|SimpleLogger|Recibo: 350.26 count: 44
+2017-09-18 11:42:29,905|SimpleLogger|Recibo: 416.59 count: 45
+2017-09-18 11:42:31,930|SimpleLogger|Recibo: 139.19 count: 46
+2017-09-18 11:42:33,961|SimpleLogger|Recibo: 762.76 count: 47
+2017-09-18 11:42:35,968|SimpleLogger|Recibo: 250.63 count: 48
+2017-09-18 11:42:37,990|SimpleLogger|Recibo: 612.77 count: 49
+2017-09-18 11:42:40,014|SimpleLogger|Recibo: 80.15 count: 50
+2017-09-18 11:42:42,044|SimpleLogger|Recibo: 188.08 count: 51
+2017-09-18 11:42:44,073|SimpleLogger|Recibo: 1003.82 count: 52
+2017-09-18 11:42:46,102|SimpleLogger|Recibo: 288.27 count: 53
+2017-09-18 11:42:48,131|SimpleLogger|Recibo: 841.89 count: 54
+2017-09-18 11:42:50,167|SimpleLogger|Recibo: 64.81 count: 55
+2017-09-18 11:42:52,206|SimpleLogger|Recibo: 44.22 count: 56
+2017-09-18 11:42:54,236|SimpleLogger|Recibo: 191.77 count: 57
+2017-09-18 11:42:56,261|SimpleLogger|Recibo: 132.83 count: 58
+2017-09-18 11:42:58,289|SimpleLogger|Recibo: 630.49 count: 59
+2017-09-18 11:43:00,323|SimpleLogger|Recibo: 812.84 count: 60
+2017-09-18 11:43:02,358|SimpleLogger|Recibo: 103.87 count: 61
+2017-09-18 11:43:04,383|SimpleLogger|Recibo: 998.69 count: 62
+2017-09-18 11:43:06,406|SimpleLogger|Recibo: 623.00 count: 63
+2017-09-18 11:43:08,428|SimpleLogger|Recibo: 397.12 count: 64
+2017-09-18 11:43:10,436|SimpleLogger|Recibo: 1046.39 count: 65
+2017-09-18 11:43:12,459|SimpleLogger|Recibo: 742.79 count: 66
+2017-09-18 11:43:14,493|SimpleLogger|Recibo: 298.15 count: 67
+2017-09-18 11:43:16,521|SimpleLogger|Recibo: 995.96 count: 68
+2017-09-18 11:43:18,551|SimpleLogger|Recibo: 827.26 count: 69
+2017-09-18 11:43:20,586|SimpleLogger|Recibo: 384.48 count: 70
+2017-09-18 11:43:22,616|SimpleLogger|Recibo: 955.37 count: 71
+2017-09-18 11:43:24,649|SimpleLogger|Recibo: 804.81 count: 72
+2017-09-18 11:43:26,691|SimpleLogger|Recibo: 434.78 count: 73
+2017-09-18 11:43:28,713|SimpleLogger|Recibo: 688.38 count: 74
+2017-09-18 11:43:30,723|SimpleLogger|Recibo: 22.59 count: 75
+2017-09-18 11:43:32,729|SimpleLogger|Recibo: 390.78 count: 76
+2017-09-18 11:43:34,751|SimpleLogger|Recibo: 969.73 count: 77
+2017-09-18 11:43:36,773|SimpleLogger|Recibo: 571.60 count: 78
+2017-09-18 11:43:38,781|SimpleLogger|Recibo: 526.63 count: 79
+2017-09-18 11:43:40,787|SimpleLogger|Recibo: 502.65 count: 80
+2017-09-18 11:43:42,792|SimpleLogger|Recibo: 179.20 count: 81
+2017-09-18 11:43:44,801|SimpleLogger|Recibo: 271.53 count: 82
+2017-09-18 11:43:46,823|SimpleLogger|Recibo: 450.03 count: 83
+2017-09-18 11:43:48,845|SimpleLogger|Recibo: 335.81 count: 84
+2017-09-18 11:43:50,846|SimpleLogger|Recibo: 330.67 count: 85
+2017-09-18 11:43:52,853|SimpleLogger|Recibo: 531.58 count: 86
+2017-09-18 11:43:54,859|SimpleLogger|Recibo: 450.84 count: 87
+2017-09-18 11:43:56,865|SimpleLogger|Recibo: 346.84 count: 88
+2017-09-18 11:43:58,871|SimpleLogger|Recibo: 140.10 count: 89
+2017-09-18 11:44:00,893|SimpleLogger|Recibo: 237.27 count: 90
+2017-09-18 11:44:02,915|SimpleLogger|Recibo: 896.16 count: 91
+2017-09-18 11:44:04,919|SimpleLogger|Recibo: 487.96 count: 92
+2017-09-18 11:44:06,963|SimpleLogger|Recibo: 1042.60 count: 93
+2017-09-18 11:44:08,984|SimpleLogger|Recibo: 410.03 count: 94
+2017-09-18 11:44:11,005|SimpleLogger|Recibo: 335.92 count: 95
+2017-09-18 11:44:13,029|SimpleLogger|Recibo: 405.92 count: 96
+2017-09-18 11:44:15,071|SimpleLogger|Recibo: 669.51 count: 97
+2017-09-18 11:44:17,092|SimpleLogger|Recibo: 341.36 count: 98
+2017-09-18 11:44:19,096|SimpleLogger|Recibo: 517.83 count: 99
+2017-09-18 11:44:21,102|SimpleLogger|Recibo: 725.59 count: 100
+2017-09-18 11:44:23,124|SimpleLogger|Recibo: 870.39 count: 101
+2017-09-18 11:44:25,145|SimpleLogger|Recibo: 524.43 count: 102
+2017-09-18 11:44:27,172|SimpleLogger|Recibo: 1019.90 count: 103
+2017-09-18 11:44:29,194|SimpleLogger|Recibo: 912.86 count: 104
+2017-09-18 11:44:31,199|SimpleLogger|Recibo: 593.72 count: 105
+2017-09-18 11:44:33,207|SimpleLogger|Recibo: 815.89 count: 106
+2017-09-18 11:44:35,215|SimpleLogger|Recibo: 551.45 count: 107
+2017-09-18 11:44:37,237|SimpleLogger|Recibo: 687.08 count: 108
+2017-09-18 11:44:39,260|SimpleLogger|Recibo: 414.88 count: 109
+2017-09-18 11:44:41,270|SimpleLogger|Recibo: 935.05 count: 110
+2017-09-18 11:44:43,295|SimpleLogger|Recibo: 149.03 count: 111
+2017-09-18 11:44:45,320|SimpleLogger|Recibo: 627.64 count: 112
+2017-09-18 11:44:47,341|SimpleLogger|Recibo: 475.22 count: 113
+2017-09-18 11:44:49,345|SimpleLogger|Recibo: 782.98 count: 114
+2017-09-18 11:44:51,367|SimpleLogger|Recibo: 768.24 count: 115
+2017-09-18 11:44:53,393|SimpleLogger|Recibo: 594.95 count: 116
+2017-09-18 11:44:55,417|SimpleLogger|Recibo: 570.71 count: 117
+2017-09-18 11:44:57,438|SimpleLogger|Recibo: 938.93 count: 118
+2017-09-18 11:44:59,447|SimpleLogger|Recibo: 847.67 count: 119
+2017-09-18 11:45:01,452|SimpleLogger|Recibo: 60.42 count: 120
+2017-09-18 11:45:03,458|SimpleLogger|Recibo: 604.01 count: 121
+2017-09-18 11:45:05,467|SimpleLogger|Recibo: 766.49 count: 122
+2017-09-18 11:45:07,488|SimpleLogger|Recibo: 896.25 count: 123
+2017-09-18 11:45:09,487|SimpleLogger|Recibo: 215.58 count: 124
+2017-09-18 11:45:11,497|SimpleLogger|Recibo: 888.52 count: 125
+2017-09-18 11:45:13,508|SimpleLogger|Recibo: 736.87 count: 126
+2017-09-18 11:45:15,518|SimpleLogger|Recibo: 29.96 count: 127
+2017-09-18 11:45:17,543|SimpleLogger|Recibo: 205.22 count: 128
+2017-09-18 11:45:19,548|SimpleLogger|Recibo: 568.14 count: 129
+2017-09-18 11:45:21,570|SimpleLogger|Recibo: 1051.81 count: 130
+2017-09-18 11:45:23,601|SimpleLogger|Recibo: 59.23 count: 131
+2017-09-18 11:45:25,624|SimpleLogger|Recibo: 904.37 count: 132
+2017-09-18 11:45:27,648|SimpleLogger|Recibo: 591.40 count: 133
+2017-09-18 11:45:29,681|SimpleLogger|Recibo: 423.47 count: 134
+2017-09-18 11:45:31,719|SimpleLogger|Recibo: 803.26 count: 135
+2017-09-18 11:45:33,741|SimpleLogger|Recibo: 234.19 count: 136
+2017-09-18 11:45:35,752|SimpleLogger|Recibo: 353.58 count: 137
+2017-09-18 11:45:37,761|SimpleLogger|Recibo: 143.69 count: 138
+2017-09-18 11:45:39,767|SimpleLogger|Recibo: 582.19 count: 139
+2017-09-18 11:45:41,774|SimpleLogger|Recibo: 86.57 count: 140
+2017-09-18 11:45:43,783|SimpleLogger|Recibo: 895.64 count: 141
+2017-09-18 11:45:45,791|SimpleLogger|Recibo: 250.22 count: 142
+2017-09-18 11:45:47,812|SimpleLogger|Recibo: 813.51 count: 143
+2017-09-18 11:45:49,818|SimpleLogger|Recibo: 802.41 count: 144
+2017-09-18 11:45:51,825|SimpleLogger|Recibo: 123.38 count: 145
+2017-09-18 11:45:53,832|SimpleLogger|Recibo: 372.08 count: 146
+2017-09-18 11:45:55,837|SimpleLogger|Recibo: 813.85 count: 147
+2017-09-18 11:45:57,843|SimpleLogger|Recibo: 123.56 count: 148
+2017-09-18 11:45:59,848|SimpleLogger|Recibo: 185.81 count: 149
+2017-09-18 11:46:01,856|SimpleLogger|Recibo: 511.68 count: 150
+2017-09-18 11:46:03,878|SimpleLogger|Recibo: 282.20 count: 151
+2017-09-18 11:46:05,901|SimpleLogger|Recibo: 1013.19 count: 152
+2017-09-18 11:46:07,923|SimpleLogger|Recibo: 926.11 count: 153
+2017-09-18 11:46:09,960|SimpleLogger|Recibo: 896.06 count: 154
+2017-09-18 11:46:11,988|SimpleLogger|Recibo: 415.88 count: 155
+2017-09-18 11:46:14,017|SimpleLogger|Recibo: 714.73 count: 156
+2017-09-18 11:46:16,043|SimpleLogger|Recibo: 94.10 count: 157
+2017-09-18 11:46:18,066|SimpleLogger|Recibo: 304.61 count: 158
+2017-09-18 11:46:20,099|SimpleLogger|Recibo: 85.31 count: 159
+2017-09-18 11:46:22,126|SimpleLogger|Recibo: 594.01 count: 160
+2017-09-18 11:46:24,148|SimpleLogger|Recibo: 383.66 count: 161
+2017-09-18 11:46:26,147|SimpleLogger|Recibo: 455.81 count: 162
+2017-09-18 11:46:28,168|SimpleLogger|Recibo: 968.88 count: 163
+2017-09-18 11:46:30,200|SimpleLogger|Recibo: 184.89 count: 164
+2017-09-18 11:46:32,229|SimpleLogger|Recibo: 233.99 count: 165
+2017-09-18 11:46:34,255|SimpleLogger|Recibo: 210.25 count: 166
+2017-09-18 11:46:36,265|SimpleLogger|Recibo: 1023.93 count: 167
+2017-09-18 11:46:38,293|SimpleLogger|Recibo: 532.91 count: 168
+2017-09-18 11:46:40,305|SimpleLogger|Recibo: 408.23 count: 169
+2017-09-18 11:46:42,330|SimpleLogger|Recibo: 922.60 count: 170
+2017-09-18 11:46:44,373|SimpleLogger|Recibo: 745.21 count: 171
+2017-09-18 11:46:46,395|SimpleLogger|Recibo: 707.23 count: 172
+2017-09-18 11:46:48,392|SimpleLogger|Recibo: 638.17 count: 173
+2017-09-18 11:46:50,399|SimpleLogger|Recibo: 749.60 count: 174
+2017-09-18 11:46:52,420|SimpleLogger|Recibo: 436.76 count: 175
+2017-09-18 11:46:54,443|SimpleLogger|Recibo: 625.51 count: 176
+2017-09-18 11:46:56,467|SimpleLogger|Recibo: 198.72 count: 177
+2017-09-18 11:46:58,489|SimpleLogger|Recibo: 296.88 count: 178
+2017-09-18 11:47:00,498|SimpleLogger|Recibo: 598.61 count: 179
+2017-09-18 11:47:02,503|SimpleLogger|Recibo: 211.83 count: 180
+2017-09-18 11:47:04,513|SimpleLogger|Recibo: 550.81 count: 181
+2017-09-18 11:47:06,555|SimpleLogger|Recibo: 861.72 count: 182
+2017-09-18 11:47:08,581|SimpleLogger|Recibo: 204.32 count: 183
+2017-09-18 11:47:10,639|SimpleLogger|Recibo: 682.50 count: 184
+2017-09-18 11:47:12,660|SimpleLogger|Recibo: 366.36 count: 185
+2017-09-18 11:47:14,661|SimpleLogger|Recibo: 804.35 count: 186
+2017-09-18 11:47:16,683|SimpleLogger|Recibo: 420.58 count: 187
+2017-09-18 11:47:18,684|SimpleLogger|Recibo: 429.69 count: 188
+2017-09-18 11:47:20,693|SimpleLogger|Recibo: 1024.08 count: 189
+2017-09-18 11:47:22,704|SimpleLogger|Recibo: 655.14 count: 190
+2017-09-18 11:47:24,714|SimpleLogger|Recibo: 395.04 count: 191
+2017-09-18 11:47:26,736|SimpleLogger|Recibo: 147.76 count: 192
+2017-09-18 11:47:28,757|SimpleLogger|Recibo: 839.64 count: 193
+2017-09-18 11:47:30,757|SimpleLogger|Recibo: 140.11 count: 194
+2017-09-18 11:47:32,764|SimpleLogger|Recibo: 413.58 count: 195
+2017-09-18 11:47:34,773|SimpleLogger|Recibo: 322.34 count: 196
+2017-09-18 11:47:36,781|SimpleLogger|Recibo: 269.01 count: 197
+2017-09-18 11:47:38,788|SimpleLogger|Recibo: 182.25 count: 198
+2017-09-18 11:47:40,794|SimpleLogger|Recibo: 703.09 count: 199
+2017-09-18 11:47:42,804|SimpleLogger|Recibo: 176.93 count: 200
+2017-09-18 11:47:44,825|SimpleLogger|Recibo: 698.57 count: 201
+2017-09-18 11:47:46,822|SimpleLogger|Recibo: 410.89 count: 202
+2017-09-18 11:47:48,829|SimpleLogger|Recibo: 131.06 count: 203
+2017-09-18 11:47:50,834|SimpleLogger|Recibo: 247.01 count: 204
+2017-09-18 11:47:52,839|SimpleLogger|Recibo: 110.63 count: 205
+2017-09-18 11:47:54,846|SimpleLogger|Recibo: 486.81 count: 206
+2017-09-18 11:47:56,855|SimpleLogger|Recibo: 628.05 count: 207
+2017-09-18 11:47:58,860|SimpleLogger|Recibo: 626.63 count: 208
+2017-09-18 11:48:00,865|SimpleLogger|Recibo: 988.19 count: 209
+2017-09-18 11:48:02,901|SimpleLogger|Recibo: 225.25 count: 210
+2017-09-18 11:48:04,932|SimpleLogger|Recibo: 834.25 count: 211
+2017-09-18 11:48:06,955|SimpleLogger|Recibo: 207.29 count: 212
+2017-09-18 11:48:08,961|SimpleLogger|Recibo: 797.37 count: 213
+2017-09-18 11:48:10,967|SimpleLogger|Recibo: 974.44 count: 214
+2017-09-18 11:48:12,974|SimpleLogger|Recibo: 246.33 count: 215
+2017-09-18 11:48:14,981|SimpleLogger|Recibo: 604.15 count: 216
+2017-09-18 11:48:16,987|SimpleLogger|Recibo: 861.43 count: 217
+2017-09-18 11:48:18,996|SimpleLogger|Recibo: 881.91 count: 218
+2017-09-18 11:48:21,003|SimpleLogger|Recibo: 915.71 count: 219
+2017-09-18 11:48:23,011|SimpleLogger|Recibo: 539.39 count: 220
+2017-09-18 11:48:25,017|SimpleLogger|Recibo: 614.83 count: 221
+2017-09-18 11:48:27,063|SimpleLogger|Recibo: 656.18 count: 222
+2017-09-18 11:48:29,091|SimpleLogger|Recibo: 724.43 count: 223
+2017-09-18 11:48:31,112|SimpleLogger|Recibo: 227.71 count: 224
+2017-09-18 11:48:33,112|SimpleLogger|Recibo: 201.21 count: 225
+2017-09-18 11:48:35,143|SimpleLogger|Recibo: 806.05 count: 226
+2017-09-18 11:48:37,147|SimpleLogger|Recibo: 639.80 count: 227
+2017-09-18 11:48:39,153|SimpleLogger|Recibo: 683.90 count: 228
+2017-09-18 11:48:41,227|SimpleLogger|Recibo: 853.77 count: 229
+2017-09-18 11:48:43,237|SimpleLogger|Recibo: 715.11 count: 230
+2017-09-18 11:48:45,259|SimpleLogger|Recibo: 123.98 count: 231
+2017-09-18 11:48:47,282|SimpleLogger|Recibo: 47.28 count: 232
+2017-09-18 11:48:49,304|SimpleLogger|Recibo: 471.89 count: 233
+2017-09-18 11:48:51,316|SimpleLogger|Recibo: 983.72 count: 234
+2017-09-18 11:48:53,324|SimpleLogger|Recibo: 849.76 count: 235
+2017-09-18 11:48:55,349|SimpleLogger|Recibo: 593.16 count: 236
+2017-09-18 11:48:57,347|SimpleLogger|Recibo: 82.48 count: 237
+2017-09-18 11:48:59,356|SimpleLogger|Recibo: 646.02 count: 238
+2017-09-18 11:49:01,364|SimpleLogger|Recibo: 948.54 count: 239
+2017-09-18 11:49:03,445|SimpleLogger|Recibo: 775.94 count: 240
+2017-09-18 11:49:05,473|SimpleLogger|Recibo: 549.96 count: 241
+2017-09-18 11:49:07,494|SimpleLogger|Recibo: 744.28 count: 242
+2017-09-18 11:49:09,539|SimpleLogger|Recibo: 991.81 count: 243
+2017-09-18 11:49:11,568|SimpleLogger|Recibo: 524.12 count: 244
+2017-09-18 11:49:13,578|SimpleLogger|Recibo: 873.33 count: 245
+2017-09-18 11:49:15,586|SimpleLogger|Recibo: 418.10 count: 246
+2017-09-18 11:49:17,592|SimpleLogger|Recibo: 482.29 count: 247
+2017-09-18 11:49:19,615|SimpleLogger|Recibo: 881.77 count: 248
+2017-09-18 11:49:21,636|SimpleLogger|Recibo: 984.10 count: 249
+2017-09-18 11:49:23,643|SimpleLogger|Recibo: 140.84 count: 250
+2017-09-18 11:49:25,651|SimpleLogger|Recibo: 105.84 count: 251
+2017-09-18 11:49:27,672|SimpleLogger|Recibo: 866.76 count: 252
+2017-09-18 11:49:29,671|SimpleLogger|Recibo: 433.77 count: 253
+2017-09-18 11:49:31,694|SimpleLogger|Recibo: 510.68 count: 254
+2017-09-18 11:49:33,697|SimpleLogger|Recibo: 970.41 count: 255
+2017-09-18 11:49:35,707|SimpleLogger|Recibo: 690.31 count: 256
+2017-09-18 11:49:37,716|SimpleLogger|Recibo: 434.46 count: 257
+2017-09-18 11:49:39,725|SimpleLogger|Recibo: 1078.81 count: 258
+2017-09-18 11:49:41,745|SimpleLogger|Recibo: 333.04 count: 259
+2017-09-18 11:49:43,753|SimpleLogger|Recibo: 958.09 count: 260
+2017-09-18 11:49:45,775|SimpleLogger|Recibo: 391.47 count: 261
+2017-09-18 11:49:47,782|SimpleLogger|Recibo: 672.05 count: 262
+2017-09-18 11:49:49,790|SimpleLogger|Recibo: 191.32 count: 263
+2017-09-18 11:49:51,798|SimpleLogger|Recibo: 547.55 count: 264
+2017-09-18 11:49:53,805|SimpleLogger|Recibo: 841.30 count: 265
+2017-09-18 11:49:55,812|SimpleLogger|Recibo: 942.48 count: 266
+2017-09-18 11:49:57,861|SimpleLogger|Recibo: 190.23 count: 267
+2017-09-18 11:49:59,891|SimpleLogger|Recibo: 631.63 count: 268
+2017-09-18 11:50:01,955|SimpleLogger|Recibo: 383.90 count: 269
+2017-09-18 11:50:03,976|SimpleLogger|Recibo: 551.31 count: 270
+2017-09-18 11:50:05,978|SimpleLogger|Recibo: 670.72 count: 271
+2017-09-18 11:50:08,002|SimpleLogger|Recibo: 893.50 count: 272
+2017-09-18 11:50:10,025|SimpleLogger|Recibo: 172.87 count: 273
+2017-09-18 11:50:12,021|SimpleLogger|Recibo: 469.62 count: 274
+2017-09-18 11:50:14,042|SimpleLogger|Recibo: 161.09 count: 275
+2017-09-18 11:50:16,063|SimpleLogger|Recibo: 52.53 count: 276
+2017-09-18 11:50:18,059|SimpleLogger|Recibo: 202.08 count: 277
+2017-09-18 11:50:20,068|SimpleLogger|Recibo: 253.22 count: 278
+2017-09-18 11:50:22,089|SimpleLogger|Recibo: 187.40 count: 279
+2017-09-18 11:50:24,111|SimpleLogger|Recibo: 596.23 count: 280
+2017-09-18 11:50:26,109|SimpleLogger|Recibo: 202.64 count: 281
+2017-09-18 11:50:28,119|SimpleLogger|Recibo: 424.15 count: 282
+2017-09-18 11:50:30,149|SimpleLogger|Recibo: 554.07 count: 283
+2017-09-18 11:50:32,162|SimpleLogger|Recibo: 488.13 count: 284
+2017-09-18 11:50:34,188|SimpleLogger|Recibo: 938.70 count: 285
+2017-09-18 11:50:36,214|SimpleLogger|Recibo: 766.20 count: 286
+2017-09-18 11:50:38,221|SimpleLogger|Recibo: 420.84 count: 287
+2017-09-18 11:50:40,228|SimpleLogger|Recibo: 696.56 count: 288
+2017-09-18 11:50:42,249|SimpleLogger|Recibo: 565.80 count: 289
+2017-09-18 11:50:44,248|SimpleLogger|Recibo: 116.87 count: 290
+2017-09-18 11:50:46,269|SimpleLogger|Recibo: 177.20 count: 291
+2017-09-18 11:50:48,269|SimpleLogger|Recibo: 164.17 count: 292
+2017-09-18 11:50:50,277|SimpleLogger|Recibo: 990.54 count: 293
+2017-09-18 11:50:52,285|SimpleLogger|Recibo: 913.25 count: 294
+2017-09-18 11:50:54,292|SimpleLogger|Recibo: 690.64 count: 295
+2017-09-18 11:50:56,301|SimpleLogger|Recibo: 713.22 count: 296
+2017-09-18 11:50:58,307|SimpleLogger|Recibo: 845.06 count: 297
+2017-09-18 11:51:00,315|SimpleLogger|Recibo: 724.17 count: 298
+2017-09-18 11:51:02,321|SimpleLogger|Recibo: 879.62 count: 299
+2017-09-18 11:51:04,343|SimpleLogger|Recibo: 556.46 count: 300 

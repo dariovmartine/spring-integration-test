@@ -1,1 +1,5 @@
+Comentarios:
+
+Para generar el cliente async:
+
 wsimport http://localhost:8080/ws/Schemas/processOrderService.wsdl -b src/test/resources/async.xml -p ar.com.directv.test.spring.integration.async -s src -d target 
